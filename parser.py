@@ -101,7 +101,7 @@ def parse_trashbox():
     found_links = []
 
     for a in soup.find_all('a', href=True):
-        href = a['href'].strip().split('?')[0].rstrip('/')
+        href = a['href'].strip().split('?')[0].split('#')[0].rstrip('/')
         
         if link_pattern.search(href):
             full_url = href if href.startswith('http') else "https://trashbox.ru" + href
@@ -110,7 +110,7 @@ def parse_trashbox():
             if full_url not in sent_urls and full_url not in found_links:
                 found_links.append(full_url)
 
-    print(f"К отправке: {len(found_links)} unique news.")
+    print(f"К отправке: {len(found_links)} уникальных новостей.")
 
     new_dispatched = 0
     for news_url in reversed(found_links):
@@ -139,20 +139,38 @@ def parse_trashbox():
                 news_soup.find('article')
             )
             
-            # Ищем титульное изображение, если оно лежит вне основного блока контента
+            # Ищем титульное изображение
             main_img_div = news_soup.find('div', class_=re.compile(r'topic_image|main_image|topic_img', re.I))
             
             if content_div:
-                # Если титульная картинка найдена снаружи, вставляем её в самое начало контента письма
-                if main_img_div and main_img_div not in content_div.parents:
-                    content_div.insert(0, main_img_div)
+                # Безопасно проверяем: если картинка есть и её НЕТ внутри основного контента
+                if main_img_div:
+                    # Проверяем наличие элемента внутри дерева content_div
+                    is_already_inside = False
+                    try:
+                        # Если у элемента есть уникальный id или класс, ищем по нему
+                        main_class = main_img_div.get('class')
+                        if main_class:
+                            class_selector = ".".join(main_class)
+                            if content_div.select(f"div.{class_selector}"):
+                                is_already_inside = True
+                    except Exception:
+                        pass
+                    
+                    if not is_already_inside:
+                        content_div.insert(0, main_img_div)
 
                 # Очистка от мусора
                 for trash in content_div.find_all(['div', 'section', 'form', 'script', 'style', 'iframe', 'ins'], 
                                                  id=re.compile(r'comments|comm_cont|reply_form|related|tags|vote|rating|like|dislike', re.I),
                                                  class_=re.compile(r'comments|comm_cont|topic_tags|vote|rating|like|dislike', re.I)):
-                    # Но не трогаем блок с титульным фото!
-                    if 'topic_image' in str(trash.get('class', '')) or 'main_image' in str(trash.get('class', '')):
+                    
+                    # Безопасно достаем атрибуты
+                    attrs = getattr(trash, 'attrs', {})
+                    classes = attrs.get('class', [])
+                    class_str = " ".join(classes) if isinstance(classes, list) else str(classes)
+                    
+                    if 'topic_image' in class_str or 'main_image' in class_str:
                         continue
                     trash.decompose()
                 
@@ -164,7 +182,7 @@ def parse_trashbox():
                 for s in content_div(['script', 'style', 'iframe', 'ins', 'form']):
                     s.decompose()
 
-                # Форматирование ВСЕХ картинок (включая титульное изображение)
+                # Форматирование картинок
                 for img in content_div.find_all('img', src=True):
                     src = img['src'].strip()
                     if src.startswith('/') and not src.startswith('//'):
@@ -175,10 +193,9 @@ def parse_trashbox():
                     if img.has_attr('width'): del img['width']
                     if img.has_attr('height'): del img['height']
                     
-                    # Применяем инлайновый адаптивный стиль
                     img['style'] = "max-width: 100% !important; height: auto !important; display: block !important; margin: 12px auto !important; object-fit: contain;"
                 
-                # Сбрасываем возможные фиксированные размеры у контейнеров картинок
+                # Сброс фиксированных контейнеров
                 for img_container in content_div.find_all('div', class_=re.compile(r'image|img|topic_image', re.I)):
                     img_container['style'] = "max-width: 100% !important; width: auto !important; height: auto !important; text-align: center;"
 
