@@ -462,3 +462,4 @@ https://trashbox.ru/link/2026-08-05-huawei-watch-gt-7||huawei представи
 https://trashbox.ru/link/2026-09-05-harmonyos-7-beta-test-matebook||huawei запускает закрытое бета-тестирование harmonyos 7.0 для ноутбуков matebook
 https://trashbox.ru/link/2026-08-05-trouver-novinki||trouver провела презентацию в москве и представила новинки 2026 года
 https://trashbox.ru/link/2026-08-05-predstavlena-cloudflare-os||представлена cloudflare os — открытая «операционная система» для ии-агентов
+https://trashbox.ru/link/2026-08-05-virtual-mac-on-ipad-novyj-sposob-zapustit-macos-na-ipad||появился новый способ запустить macos на ipad — virtual mac on ipad
