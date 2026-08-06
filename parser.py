@@ -125,64 +125,62 @@ def parse_trashbox():
             news_res.raise_for_status()
             news_soup = BeautifulSoup(news_res.text, 'html.parser')
             
-            title_tag = news_soup.find('h1')
+            # 1. Поиск основного заголовка
+            title_tag = news_soup.find('h1', class_=re.compile(r'h_topic_caption', re.I)) or news_soup.find('h1')
             title = title_tag.get_text(strip=True) if title_tag else "Без названия"
             
             clean_title_check = " ".join(title.split()).strip().lower()
             if clean_title_check in sent_titles:
                 print(f"Пропуск: статья с заголовком '{title}' уже была отправлена ранее.")
                 continue
-            
+
+            # 2. Поиск подзаголовка / описания статьи
+            sub_title_tag = news_soup.find('div', class_=re.compile(r'div_topic_circle_descr_top', re.I))
+            sub_title_html = f"<p style='font-size: 1.1em; color: #555; font-weight: bold;'>{sub_title_tag.get_text(strip=True)}</p>" if sub_title_tag else ""
+
+            # 3. Поиск даты публикации
+            date_tag = news_soup.find('time')
+            date_html = f"<p style='color: #888; font-size: 0.85em;'>Дата: {date_tag.get_text(strip=True)}</p>" if date_tag else ""
+
+            # 4. Поиск основного контейнера контента
             content_div = (
-                news_soup.find('div', id='topic_content') or 
-                news_soup.find('div', class_='topic_content') or
+                news_soup.find('div', class_=re.compile(r'div_topic_view', re.I)) or 
+                news_soup.find('div', id=re.compile(r'div_text_content_', re.I)) or
+                news_soup.find('div', id='topic_content') or
                 news_soup.find('article')
             )
-            
-            # Ищем титульное изображение
-            main_img_div = news_soup.find('div', class_=re.compile(r'topic_image|main_image|topic_img', re.I))
-            
-            if content_div:
-                # Безопасно проверяем: если картинка есть и её НЕТ внутри основного контента
-                if main_img_div:
-                    # Проверяем наличие элемента внутри дерева content_div
-                    is_already_inside = False
-                    try:
-                        # Если у элемента есть уникальный id или класс, ищем по нему
-                        main_class = main_img_div.get('class')
-                        if main_class:
-                            class_selector = ".".join(main_class)
-                            if content_div.select(f"div.{class_selector}"):
-                                is_already_inside = True
-                    except Exception:
-                        pass
-                    
-                    if not is_already_inside:
-                        content_div.insert(0, main_img_div)
 
-                # Очистка от мусора
+            # 5. Поиск титульного фото
+            title_img = news_soup.find('img', class_=re.compile(r'div_image_news_item', re.I))
+
+            if content_div:
+                # Вставка титульного фото в начало контента статьи
+                if title_img:
+                    # Создаем обертку для оформления титульной картинки
+                    img_container = news_soup.new_tag('div', style="text-align: center; margin-bottom: 15px;")
+                    img_container.append(title_img)
+                    content_div.insert(0, img_container)
+
+                # Вставка подзаголовка над текстом (после титульного фото)
+                if sub_title_tag:
+                    sub_tag_parsed = BeautifulSoup(sub_title_html, 'html.parser')
+                    content_div.insert(1 if title_img else 0, sub_tag_parsed)
+
+                # Очистка от рекламы, промо-блоков, скриптов и стилей
                 for trash in content_div.find_all(['div', 'section', 'form', 'script', 'style', 'iframe', 'ins'], 
-                                                 id=re.compile(r'comments|comm_cont|reply_form|related|tags|vote|rating|like|dislike', re.I),
-                                                 class_=re.compile(r'comments|comm_cont|topic_tags|vote|rating|like|dislike', re.I)):
-                    
-                    # Безопасно достаем атрибуты
-                    attrs = getattr(trash, 'attrs', {})
-                    classes = attrs.get('class', [])
-                    class_str = " ".join(classes) if isinstance(classes, list) else str(classes)
-                    
-                    if 'topic_image' in class_str or 'main_image' in class_str:
-                        continue
+                                                 id=re.compile(r'comments|comm_cont|reply_form|related|tags|vote|rating|like|dislike|div_anim_rec', re.I),
+                                                 class_=re.compile(r'comments|comm_cont|topic_tags|vote|rating|like|dislike|div_anim_rec', re.I)):
                     trash.decompose()
                 
-                # Удаление авторов
+                # Удаление элементов авторов и мета-информации внутри текста
                 for author_info in content_div.find_all(['div', 'span', 'a'], 
-                                                       class_=re.compile(r'author|avatar|topic_author|user|meta|date', re.I)):
+                                                       class_=re.compile(r'author|avatar|topic_author|user|meta', re.I)):
                     author_info.decompose()
                 
                 for s in content_div(['script', 'style', 'iframe', 'ins', 'form']):
                     s.decompose()
 
-                # Форматирование картинок
+                # Форматирование ВСЕХ картинок внутри письма
                 for img in content_div.find_all('img', src=True):
                     src = img['src'].strip()
                     if src.startswith('/') and not src.startswith('//'):
@@ -192,11 +190,13 @@ def parse_trashbox():
                     
                     if img.has_attr('width'): del img['width']
                     if img.has_attr('height'): del img['height']
+                    if img.has_attr('srcset'): del img['srcset']
+                    if img.has_attr('sizes'): del img['sizes']
                     
                     img['style'] = "max-width: 100% !important; height: auto !important; display: block !important; margin: 12px auto !important; object-fit: contain;"
                 
-                # Сброс фиксированных контейнеров
-                for img_container in content_div.find_all('div', class_=re.compile(r'image|img|topic_image', re.I)):
+                # Сброс размеров у контейнеров картинок галереи (.center, .div_gallery_item и т.д.)
+                for img_container in content_div.find_all(['div', 'span'], class_=re.compile(r'image|img|gallery|center', re.I)):
                     img_container['style'] = "max-width: 100% !important; width: auto !important; height: auto !important; text-align: center;"
 
                 html_body = f"""
@@ -205,10 +205,12 @@ def parse_trashbox():
                     <style>
                         body {{ font-family: sans-serif; line-height: 1.6; color: #333; max-width: 700px; margin: 0 auto; padding: 10px; }}
                         img {{ max-width: 100% !important; height: auto !important; display: block !important; margin: 12px auto !important; }}
-                        div.topic_image, div.main_image {{ max-width: 100% !important; width: auto !important; height: auto !important; text-align: center !important; }}
+                        div.center, span.div_gallery_item {{ max-width: 100% !important; width: auto !important; height: auto !important; text-align: center !important; display: block !important; }}
                     </style>
                 </head>
                 <body>
+                    <h1 style="font-size: 1.5em; line-height: 1.3;">{title}</h1>
+                    {date_html}
                     {str(content_div)}
                     <hr style="border: none; border-top: 1px solid #eee; margin: 20px 0;">
                     <p><a href="{news_url}">Читать оригинал на Trashbox.ru</a></p>
