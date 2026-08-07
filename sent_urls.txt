@@ -483,3 +483,4 @@ https://trashbox.ru/link/2026-08-07-claude-lenitsya||создатель конт
 https://trashbox.ru/link/2026-08-07-openai-kolonka-ponchik||первым устройством openai станет умная колонка в виде пончика — bloomberg
 https://trashbox.ru/link/2026-08-05-chrome-knopka-gemini||в браузере chrome для android и ios появилась новая панель навигации с кнопкой gemini
 https://trashbox.ru/link/2026-08-07-rollme-ai-watch-2-3||rollme выпустила часы ai watch 2 и ai watch 3 со встроенными ии-помощниками
+https://trashbox.ru/link/2026-08-07-ii-uyazvimosti-v-kriptografii||искусственный интеллект обнаружил уязвимости в двух криптографических системах, включая стандарт aes
