@@ -486,3 +486,4 @@ https://trashbox.ru/link/2026-08-07-rollme-ai-watch-2-3||rollme выпустил
 https://trashbox.ru/link/2026-08-07-ii-uyazvimosti-v-kriptografii||искусственный интеллект обнаружил уязвимости в двух криптографических системах, включая стандарт aes
 https://trashbox.ru/link/2026-08-07-opus-5-udalil-papku-users||пользователь попросил claude opus 5 сделать резервную копию данных, но ии вместо этого удалил папку users
 https://trashbox.ru/link/2026-08-07-max-storonnie-klienty||max откроет api и документацию, чтобы разработчики могли создавать сторонние клиенты
+https://trashbox.ru/link/2026-08-07-rezhissyor-anton-maslov-protestiroval-honor-magicpad-4||режиссер «последнего богатыря» протестировал honor magicpad 4 и остался впечатлён экраном
