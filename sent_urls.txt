@@ -480,3 +480,4 @@ https://trashbox.ru/link/2026-08-06-sony-nanimaet-reklamschikov-v-playstation||s
 https://trashbox.ru/link/2026-08-06-taito-japan-arcade-egret-mini||библиотека egret ii mini достигнет 100 игр: taito и famitsu анонсировали трансляцию
 https://trashbox.ru/link/2026-08-07-gpt-56-sol-chatgpt||openai улучшила gpt-5.6 sol в chatgpt и отменила лимиты на разговоры для пользователей без подписки
 https://trashbox.ru/link/2026-08-07-claude-lenitsya||создатель контента пожаловался, что ии-модель claude регулярно ленится и не отрицает этого
+https://trashbox.ru/link/2026-08-07-openai-kolonka-ponchik||первым устройством openai станет умная колонка в виде пончика — bloomberg
