@@ -489,3 +489,4 @@ https://trashbox.ru/link/2026-08-07-max-storonnie-klienty||max откроет ap
 https://trashbox.ru/link/2026-08-07-rezhissyor-anton-maslov-protestiroval-honor-magicpad-4||режиссер «последнего богатыря» протестировал honor magicpad 4 и остался впечатлён экраном
 https://trashbox.ru/link/2026-08-07-lightdm-1.33-for-linux-qt6||вышел lightdm 1.33.0: дисплейный менеджер получил поддержку qt 6 и оптимизации
 https://trashbox.ru/link/2026-08-07-v-rossii-prodazhi-tank-400-tehno-premium||в россии стартовали продажи гибридного tank 400 «техно премиум» — цены и комплектации
+https://trashbox.ru/link/2026-08-09-findphone-pozvolyaet-nayti-smartfon-ili-naushniki-v-komnate-cherez-terminal-mac||findphone позволяет найти смартфон или наушники в комнате через терминал mac
