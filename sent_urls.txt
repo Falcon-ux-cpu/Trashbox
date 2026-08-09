@@ -497,3 +497,4 @@ https://trashbox.ru/link/2026-08-09-openai-astra||openai приостанови�
 https://trashbox.ru/link/2026-08-09-hisense-a10-foto||появились реальные фотографии смартфона hisense a10 со съёмным дисплеем
 https://trashbox.ru/link/2026-08-09-intel-8080-restavrator||владелец оригинальной предсерийной схемы intel 8080 с 5000 транзисторов ищет реставратора
 https://trashbox.ru/link/2026-08-09-piet-quine||разработчик показал работу piet quine — gif-изображения, которое создаёт само себя
+https://trashbox.ru/link/2026-08-09-pogoda-windows-11-12gb||приложение «погода» в windows 11 использует более 1,2 гб оперативной памяти — windows latest
