@@ -500,3 +500,4 @@ https://trashbox.ru/link/2026-08-09-piet-quine||разработчик пока�
 https://trashbox.ru/link/2026-08-09-pogoda-windows-11-12gb||приложение «погода» в windows 11 использует более 1,2 гб оперативной памяти — windows latest
 https://trashbox.ru/link/2026-08-09-noctua-issledovanie-korpusov||половина корпусов для пк имеют значительные расхождения в реальных размерах и размерах на бумаге — исследование noctua
 https://trashbox.ru/link/2026-08-10-ii-agent-vzlom-sistemy-bronirovaniya||ии-агент взломал систему бронирования спортзала, пытаясь найти место для своего пользователя
+https://trashbox.ru/link/2026-08-10-amd-ryzen-7-449-5-439||представлены процессоры amd ryzen 7 449 и ryzen 5 439: обе модели без npu
