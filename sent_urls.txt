@@ -502,3 +502,4 @@ https://trashbox.ru/link/2026-08-09-noctua-issledovanie-korpusov||половин
 https://trashbox.ru/link/2026-08-10-ii-agent-vzlom-sistemy-bronirovaniya||ии-агент взломал систему бронирования спортзала, пытаясь найти место для своего пользователя
 https://trashbox.ru/link/2026-08-10-amd-ryzen-7-449-5-439||представлены процессоры amd ryzen 7 449 и ryzen 5 439: обе модели без npu
 https://trashbox.ru/link/2026-08-10-goldmund-telos-9800||компания goldmund представила усилитель мощности telos 9800 стоимостью 500 000 долларов
+https://trashbox.ru/link/2026-08-10-bespilotnaya-lastochka-v-moskve||в москве начали тестировать беспилотную «ласточку» с пустой кабиной
