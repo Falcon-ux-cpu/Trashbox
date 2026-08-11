@@ -516,3 +516,4 @@ https://trashbox.ru/link/2026-08-11-apple-reference-image||apple готовит 
 https://trashbox.ru/link/2026-08-11-messendzher-looky||в россии появится ещё один мессенджер: от создателей соцсети looky
 https://trashbox.ru/link/2026-08-11-claude-code-kommentarii||claude code оставляет слишком много комментариев в коде и игнорирует просьбу остановиться
 https://trashbox.ru/link/2026-08-11-claude-pometka-teksta||ии-модель claude будет помечать сгенерированный текст невидимыми водяными знаками
+https://trashbox.ru/link/2026-08-11-powertoys-obnovlenie||приложение powertoys получит поддержку ии-модели phi silica и другие изменения
