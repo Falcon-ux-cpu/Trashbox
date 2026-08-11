@@ -515,3 +515,4 @@ https://trashbox.ru/link/2026-08-11-steklyannyj-iphone||apple выпустит �
 https://trashbox.ru/link/2026-08-11-apple-reference-image||apple готовит функцию reference image: она будет проверять подлинность фото, снятых на iphone
 https://trashbox.ru/link/2026-08-11-messendzher-looky||в россии появится ещё один мессенджер: от создателей соцсети looky
 https://trashbox.ru/link/2026-08-11-claude-code-kommentarii||claude code оставляет слишком много комментариев в коде и игнорирует просьбу остановиться
+https://trashbox.ru/link/2026-08-11-claude-pometka-teksta||ии-модель claude будет помечать сгенерированный текст невидимыми водяными знаками
