@@ -526,3 +526,4 @@ https://trashbox.ru/link/2026-08-11-samsung-vypustit-eschyo-million-galaxy-z-fol
 https://trashbox.ru/link/2026-08-11-roskosmos-i-yandeks-pogoda-pokazhut-pryamuyu-translyaciyu-solnechnogo-zatmeniya-||роскосмос и «яндекс погода» покажут прямую трансляцию солнечного затмения 12 августа
 https://trashbox.ru/link/2026-08-12-chatgpt-linux||openai выпустила предварительную версию приложения chatgpt для linux: внутри есть и work, и codex
 https://trashbox.ru/link/2026-08-12-gnome-idei||разработчики gnome поделились идеями дизайна рабочего стола для будущих релизов
+https://trashbox.ru/link/2026-08-12-windows-11-uskorennyj-zapusk-prilozhenij||в windows 11 появилась функция ускоренного запуска приложений: как включить
