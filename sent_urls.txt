@@ -563,3 +563,4 @@ https://trashbox.ru/link/2026-08-14-mts-ekologicheskie-preduprezhdeniya||мтс 
 https://trashbox.ru/link/2026-08-14-computer-base-1973||очень редкий аркадный автомат выставлен на продажу: цена уже более 9 000 долларов
 https://trashbox.ru/link/2026-08-14-sistema-upravleniya-robosobakami||в россии создана система автономного управления робособаками
 https://trashbox.ru/link/2026-08-14-starcraft-on-amiga-68k-amisc||порт starcraft: brood war для amiga — представлена альфа-версия amisc
+https://trashbox.ru/link/2026-08-14-kde-plasma-6.6-lts-bullet-proof||kubuntu запустила инициативу «bullet-proof kde»: поддержка plasma 6.6 до 2029 года
