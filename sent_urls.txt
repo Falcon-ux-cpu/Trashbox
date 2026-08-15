@@ -568,3 +568,4 @@ https://trashbox.ru/link/2026-08-15-iqoo-x-smartfon||анонсирован ко
 https://trashbox.ru/link/2026-08-15-windows-11-perezagruzka-neskolko-raz||стало известно, почему пк под управлением windows 11 могут перезагружаться несколько раз в день
 https://trashbox.ru/link/2026-08-15-google-vodyanoj-znak-gemini||google разрешила удалять видимый водяной знак gemini
 https://trashbox.ru/link/2026-08-15-ruka-td-1||представлен ruka td-1 — очень необычный вертикальный проигрыватель винила от бывшего дизайнера apple
+https://trashbox.ru/link/2026-08-15-tensor-g6-2-nm||похоже, google соврала о 2-нанометровом техпроцессе чипа tensor g6 в смартфонах pixel 11
