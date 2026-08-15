@@ -566,3 +566,4 @@ https://trashbox.ru/link/2026-08-14-starcraft-on-amiga-68k-amisc||порт starc
 https://trashbox.ru/link/2026-08-14-kde-plasma-6.6-lts-bullet-proof||kubuntu запустила инициативу «bullet-proof kde»: поддержка plasma 6.6 до 2029 года
 https://trashbox.ru/link/2026-08-15-iqoo-x-smartfon||анонсирован концептуальный смартфон iqoo x с процессором snapdragon 8 elite gen 10 и аккумулятором 15 000 ма·ч
 https://trashbox.ru/link/2026-08-15-windows-11-perezagruzka-neskolko-raz||стало известно, почему пк под управлением windows 11 могут перезагружаться несколько раз в день
+https://trashbox.ru/link/2026-08-15-google-vodyanoj-znak-gemini||google разрешила удалять видимый водяной знак gemini
