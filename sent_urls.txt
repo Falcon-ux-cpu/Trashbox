@@ -578,3 +578,4 @@ https://trashbox.ru/link/2026-08-16-deficit-byudzhetnyh-videokart||компан�
 https://trashbox.ru/link/2026-08-16-tajmlaps-perseidy||псковский астрофотограф показал таймлапс ночного неба во время пика метеорного потока персеиды
 https://trashbox.ru/link/2026-08-16-kamaz-bespilotnyj-avtobus||«камаз» выпустит беспилотный автобус
 https://trashbox.ru/link/2026-08-16-roboty-bez-tolku||популярность человекоподобных роботов растёт, но практической пользы от них крайне мало — gasgoo
+https://trashbox.ru/link/2026-08-16-ii-dlya-perenosa-navykov||представлена ии-модель fi0, которая переносит навыки между разными роботами
