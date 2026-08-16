@@ -571,3 +571,4 @@ https://trashbox.ru/link/2026-08-15-ruka-td-1||представлен ruka td-1 
 https://trashbox.ru/link/2026-08-15-tensor-g6-2-nm||похоже, google соврала о 2-нанометровом техпроцессе чипа tensor g6 в смартфонах pixel 11
 https://trashbox.ru/link/2026-08-15-windows-prekraschenie-podderzhki||microsoft предупредила, что в ноябре прекратит поддержку нескольких версий windows
 https://trashbox.ru/link/2026-08-15-modulnoe-hranilische-kartridzhej-bitlounger||retro drawers: система хранения для картриджей появилась на kickstarter
+https://trashbox.ru/link/2026-08-16-windows-11-kontekstnoe-menyu||в windows 11 скоро появится новое контекстное меню: вот как выглядит
