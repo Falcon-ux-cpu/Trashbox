@@ -579,3 +579,4 @@ https://trashbox.ru/link/2026-08-16-tajmlaps-perseidy||псковский аст
 https://trashbox.ru/link/2026-08-16-kamaz-bespilotnyj-avtobus||«камаз» выпустит беспилотный автобус
 https://trashbox.ru/link/2026-08-16-roboty-bez-tolku||популярность человекоподобных роботов растёт, но практической пользы от них крайне мало — gasgoo
 https://trashbox.ru/link/2026-08-16-ii-dlya-perenosa-navykov||представлена ии-модель fi0, которая переносит навыки между разными роботами
+https://trashbox.ru/link/2026-08-17-windows-11-wmic||microsoft удалит из windows 11 устаревший инструмент, который представляет собой угрозу безопасности
