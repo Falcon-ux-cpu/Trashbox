@@ -586,3 +586,4 @@ https://trashbox.ru/link/2026-08-17-novyj-mehanizm-kryla-samolyota||россий
 https://trashbox.ru/link/2026-08-17-hmd-2760-flip-4g||hmd готовит новую кнопочную раскладушку — hmd 2760 flip 4g: она работает на android
 https://trashbox.ru/link/2026-08-17-linux-trebovanie-k-processoru||теперь у linux новое требование к процессору, но это не tpm 2.0
 https://trashbox.ru/link/2026-08-17-windows-11-kb5121003||обновление kb5121003 для windows 11 «ломает» игры и вызывает другие проблемы
+https://trashbox.ru/link/2026-08-17-shpionskoe-po-dlya-android||в сети гуляет новая шпионская программа для android: маскируется под браузер chrome
