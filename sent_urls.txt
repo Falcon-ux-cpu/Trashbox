@@ -596,3 +596,4 @@ https://trashbox.ru/link/2026-08-18-haval-vtoraya-linij||в тульской о�
 https://trashbox.ru/link/2026-08-18-karta-gta-6||в сети появилась полная карта мира gta 6
 https://trashbox.ru/link/2026-08-19-fairphone-vypustila-smartfon-gen.-6||fairphone выпустила самый ремонтопригодный смартфон — gen. 6+
 https://trashbox.ru/link/2026-08-19-infinix-speceny-na-noutbuki||infinix объявила специальные цены на ноутбуки xbook перед новым учебным годом
+https://trashbox.ru/link/2026-08-19-pine64-ostanovila-proizvodstvo-iz-za-pamyati||pine64 приостанавливает выпуск linux-устройств из-за дефицита памяти
