@@ -611,3 +611,4 @@ https://trashbox.ru/link/2026-08-20-android-prilozheniya-ozu||android ужест
 https://trashbox.ru/link/2026-08-20-honor-watch-6||в россии появились часы honor watch 6 с очень ярким экраном и хорошей автономностью
 https://trashbox.ru/link/2026-08-20-xorg-26-release-candidate||релиз-кандидат x.org server 26.0.99.901: ключевые изменения и нововведения
 https://trashbox.ru/link/2026-08-20-tenet-prilozhenie||у автомобилей российского бренда tenet появилось приложение для удалённого управления
+https://trashbox.ru/link/2026-08-20-garuda-linux-temeraire||garuda linux temeraire: новая сборка дистрибутива с ядром 7.2
