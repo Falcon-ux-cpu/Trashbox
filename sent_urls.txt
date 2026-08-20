@@ -609,3 +609,4 @@ https://trashbox.ru/link/2026-08-20-chasy-ekosistema-xiaomi||в россии п�
 https://trashbox.ru/link/2026-08-20-turok-game.com-gejmplej||отменённая версия turok dinosaur hunter для tiger game.com: уникальные кадры
 https://trashbox.ru/link/2026-08-20-android-prilozheniya-ozu||android ужесточает контроль над приложениями, пожирающими оперативную память
 https://trashbox.ru/link/2026-08-20-honor-watch-6||в россии появились часы honor watch 6 с очень ярким экраном и хорошей автономностью
+https://trashbox.ru/link/2026-08-20-xorg-26-release-candidate||релиз-кандидат x.org server 26.0.99.901: ключевые изменения и нововведения
