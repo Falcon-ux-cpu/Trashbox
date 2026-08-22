@@ -620,3 +620,4 @@ https://trashbox.ru/link/2026-08-21-deepseek-predstavila-v4-flash-vision-exp||de
 https://trashbox.ru/link/2026-08-22-windows-3d-pinball||в microsoft пояснили, почему в windows пропал 3d pinball
 https://trashbox.ru/link/2026-08-22-take-two-identifikatory-windows-gta-6||take-two обратилась в microsoft, чтобы получить идентификаторы некоторых устройств windows: всё из-за утечек gta 6
 https://trashbox.ru/link/2026-08-22-sony-xperia-10-viii||в сети появилось изображение смартфона sony xperia 10 viii: релиз уже 25 августа
+https://trashbox.ru/link/2026-08-22-robot-100-metrov||побит рекорд усэйна болта: робот пробежал 100 метров за 9,32 секунды
