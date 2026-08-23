@@ -629,3 +629,4 @@ https://trashbox.ru/link/2026-08-23-phosh-0-57||состоялся релиз ph
 https://trashbox.ru/link/2026-08-23-poddelnaya-gta-6||в сети распространяется поддельная сборка gta 6 весом 113 гб, и она содержит вредоносное по
 https://trashbox.ru/link/2026-08-23-windows-11-sboi-v-igrah||microsoft обвинила rgb-подсветку периферийных устройств в критических сбоях в играх после обновления windows 11
 https://trashbox.ru/link/2026-08-23-cxmt-dokumenty-samsung||компания cxmt использовала секретные документы samsung для разработки памяти — maeil business
+https://trashbox.ru/link/2026-08-23-3dfx-voodoo-3-linux||неожиданно: спустя 25 лет после прекращения поддержки видеокарта 3dfx voodoo 3 получила обновление драйверов для linux
