@@ -680,3 +680,4 @@ https://trashbox.ru/link/2026-08-27-bandai-tamagotchi-rings-the-smallest-virtual
 https://trashbox.ru/link/2026-08-27-nvidia-595-99-driver-improves-linux-70||графический драйвер nvidia 595.99 улучшает совместимость с linux 7.0
 https://trashbox.ru/link/2026-08-27-lemonade-11.8-deepseek-on-amd||lemonade 11.8 упрощает запуск deepseek v4 flash на amd strix halo
 https://trashbox.ru/link/2026-08-27-haiku-r1-os-beta-beos||состоялся выпуск шестой бета-версии операционной системы haiku
+https://trashbox.ru/link/2026-08-27-v-google-messages-poyavilis-personalnye-temy||в google messages появились персональные темы — можно менять фон и оформление каждого чата
