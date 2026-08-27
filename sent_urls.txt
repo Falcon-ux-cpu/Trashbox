@@ -671,3 +671,4 @@ https://trashbox.ru/link/2026-08-27-garmin-fenix-9-pro||garmin представ�
 https://trashbox.ru/link/2026-08-27-game-ready-windows-10||уже в октябре 2026 года nvidia прекратит выпуск графических драйверов geforce game ready для windows 10
 https://trashbox.ru/link/2026-08-27-atari-39-igr||atari выпускает 39 игр от activision на картриджах, которые работают на приставках 50-летней давности
 https://trashbox.ru/link/2026-08-27-tenet-a8||названа стоимость роскошного бизнес-седана а8 от российского бренда tenet
+https://trashbox.ru/link/2026-08-27-quake-aurora||легендарный шутер quake портировали на российскую ос «аврора»
