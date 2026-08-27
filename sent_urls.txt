@@ -678,3 +678,4 @@ https://trashbox.ru/link/2026-08-27-sberbum-2-s-gigachat||сбер предст�
 https://trashbox.ru/link/2026-08-27-astra-linux-186||вышла российская astra linux 1.8.6: что нового
 https://trashbox.ru/link/2026-08-27-bandai-tamagotchi-rings-the-smallest-virtual-pets||тамагочи на пальце: bandai выпустила кольцо с виртуальным питомцем
 https://trashbox.ru/link/2026-08-27-nvidia-595-99-driver-improves-linux-70||графический драйвер nvidia 595.99 улучшает совместимость с linux 7.0
+https://trashbox.ru/link/2026-08-27-lemonade-11.8-deepseek-on-amd||lemonade 11.8 упрощает запуск deepseek v4 flash на amd strix halo
