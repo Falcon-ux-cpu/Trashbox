@@ -687,3 +687,4 @@ https://trashbox.ru/link/2026-08-28-propusknaya-sposobnost-5g||в россии �
 https://trashbox.ru/link/2026-08-28-hisense-a10||hisense официально представила смартфоны a10: у одной модели есть съёмный экран
 https://trashbox.ru/link/2026-08-28-zagorelas-geforce-rtx-5090||у пользователя в компьютере alienware aurora загорелась видеокарта geforce rtx 5090: разъём питания не виноват
 https://trashbox.ru/link/2026-08-28-alisa-ai-rukopisnye-zapisi-v-zametki||редактировать вручную больше не надо: «алиса ai» научилась превращать рукописные записи в структурированные заметки
+https://trashbox.ru/link/2026-08-28-proton-fixes-for-dragon-age-far-cry-vermintide-2-on-linux||proton experimental исправляет dragon age, far cry и vermintide 2 на linux
