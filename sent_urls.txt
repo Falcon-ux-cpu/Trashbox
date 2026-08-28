@@ -694,3 +694,4 @@ https://trashbox.ru/link/2026-08-28-yandeks-sim||в россии появилс�
 https://trashbox.ru/link/2026-08-28-windows-11-kb5120998||свежее обновление для windows 11 вновь ломает работу операционной системы
 https://trashbox.ru/link/2026-08-28-microsoft-edge-152||в microsoft edge 152 добавлена ​​полезная функция для борьбы с мошенническими уведомлениями
 https://trashbox.ru/link/2026-08-28-v-rossii-poyavyatsya-ssd-sata-nvme-i-moduli-ddr4-ddr5-ot-indilinx||в россии появятся ssd sata/nvme и модули ddr4/ddr5 от indilinx
+https://trashbox.ru/link/2026-08-28-utechka-zaschita-ekrana-ot-postoronnih-vzglyadov-hyperos-4||утечка раскрыла подробности о функции защиты экрана от посторонних взглядов в xiaomi hyperos 4
