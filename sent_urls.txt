@@ -696,3 +696,4 @@ https://trashbox.ru/link/2026-08-28-microsoft-edge-152||в microsoft edge 152 д
 https://trashbox.ru/link/2026-08-28-v-rossii-poyavyatsya-ssd-sata-nvme-i-moduli-ddr4-ddr5-ot-indilinx||в россии появятся ssd sata/nvme и модули ddr4/ddr5 от indilinx
 https://trashbox.ru/link/2026-08-28-utechka-zaschita-ekrana-ot-postoronnih-vzglyadov-hyperos-4||утечка раскрыла подробности о функции защиты экрана от посторонних взглядов в xiaomi hyperos 4
 https://trashbox.ru/link/2026-08-28-gemini-android-auto-snizhaet-bezopasnost-za-rulyom||пользователи android auto считают, что gemini снижает безопасность за рулём
+https://trashbox.ru/link/2026-08-28-ustanovka-dlya-chipov||в россии на создание установки для производства чипов выделят свыше 1 млрд рублей
