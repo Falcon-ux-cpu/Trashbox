@@ -709,3 +709,4 @@ https://trashbox.ru/link/2026-08-29-kvantovaya-navigaciya-||gps всё? q-ctrl �
 https://trashbox.ru/link/2026-08-29-macbook-m1-max-zamena-batarei||попытка владельца macbook pro снизить уровень заряда батареи ради бесплатной замены провалилась
 https://trashbox.ru/link/2026-08-29-material-dlya-elektroniki||в россии создали материал для электроники нового поколения
 https://trashbox.ru/link/2026-08-29-pushka-dlya-kosmicheskih-korablej||японцы разработали магнитную «пушку» для торможения космических кораблей
+https://trashbox.ru/link/2026-08-29-telegram-udalil-800-gb-dannyh||telegram удалил 800 гб файлов на windows: виноват инструмент для проверки орфографии
