@@ -715,3 +715,4 @@ https://trashbox.ru/link/2026-08-30-android-menshe-pamyati||хорошая но�
 https://trashbox.ru/link/2026-08-30-ochen-umnoe-kolco||учёные создали очень умное кольцо: оно измеряет биомаркеры глюкозы, кетонов, лактата и витамина с
 https://trashbox.ru/link/2026-08-30-ii-windows-11-zamedlyaet-os||windows 11 обвиняют в использовании ии, который замедляет операционную систему
 https://trashbox.ru/link/2026-08-30-overbuking-v-rossii||в россии могут официально разрешить овербукинг, но не на всех авианаправлениях
+https://trashbox.ru/link/2026-08-30-claude-code-servernye-logi||пользователь скормил claude code серверные логи, и ии нашёл массу проблем
