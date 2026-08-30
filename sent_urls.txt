@@ -711,3 +711,4 @@ https://trashbox.ru/link/2026-08-29-material-dlya-elektroniki||в россии �
 https://trashbox.ru/link/2026-08-29-pushka-dlya-kosmicheskih-korablej||японцы разработали магнитную «пушку» для торможения космических кораблей
 https://trashbox.ru/link/2026-08-29-telegram-udalil-800-gb-dannyh||telegram удалил 800 гб файлов на windows: виноват инструмент для проверки орфографии
 https://trashbox.ru/link/2026-08-30-windows-defender||в windows 11 появляется предупреждение «защита от вирусов отключена», но беспокоиться не о чем
+https://trashbox.ru/link/2026-08-30-android-menshe-pamyati||хорошая новость: android-приложения будут потреблять меньше памяти
