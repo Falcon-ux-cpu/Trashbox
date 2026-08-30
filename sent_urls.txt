@@ -717,3 +717,4 @@ https://trashbox.ru/link/2026-08-30-ii-windows-11-zamedlyaet-os||windows 11 об
 https://trashbox.ru/link/2026-08-30-overbuking-v-rossii||в россии могут официально разрешить овербукинг, но не на всех авианаправлениях
 https://trashbox.ru/link/2026-08-30-claude-code-servernye-logi||пользователь скормил claude code серверные логи, и ии нашёл массу проблем
 https://trashbox.ru/link/2026-08-30-kabel-pitaniya-k-videokarte||пользователь припаял кабели питания к печатной плате rtx 5090, что решить проблему с плавления разъёмов
+https://trashbox.ru/link/2026-08-30-3d-printer-dlya-severa||в россии придумали 3d-принтер для крайнего севера
