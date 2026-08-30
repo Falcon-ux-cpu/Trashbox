@@ -719,3 +719,4 @@ https://trashbox.ru/link/2026-08-30-claude-code-servernye-logi||пользова
 https://trashbox.ru/link/2026-08-30-kabel-pitaniya-k-videokarte||пользователь припаял кабели питания к печатной плате rtx 5090, что решить проблему с плавления разъёмов
 https://trashbox.ru/link/2026-08-30-3d-printer-dlya-severa||в россии придумали 3d-принтер для крайнего севера
 https://trashbox.ru/link/2026-08-30-valve-utechka-12-tb||утечка архива valve на 12 тб проливает свет на ранние проекты
+https://trashbox.ru/link/2026-08-30-claude-krazha-sessij||anthropic сообщает о краже активных сессий ии-модели claude: чем это грозит
