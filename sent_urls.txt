@@ -749,3 +749,4 @@ https://trashbox.ru/link/2026-09-01-android-kvadratnaya-selfi-kamera||насто
 https://trashbox.ru/link/2026-09-01-poco-9||представлены poco f9 pro и f9 ultra — мощные смартфоны с дисплеями 185 гц
 https://trashbox.ru/link/2026-09-01-tecno-vystavit-na-ifa-tri-noutbuka-bezramochnyy-koncept-i-kollekciyu-s-tonino-la||tecno выставит на ifa три ноутбука, безрамочный концепт и коллекцию с tonino lamborghini
 https://trashbox.ru/link/2026-09-01-anthropic-usilivaet-zaschitu||после «побега» ии-модели claude, компания anthropic усиливает защиту
+https://trashbox.ru/link/2026-09-01-claude-fable-mythos-5-1||anthropic представила claude fable 5.1 и mythos 5.1 — более дешёвые ии-модели, но с улучшенной приватностью
