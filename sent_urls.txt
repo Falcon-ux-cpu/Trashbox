@@ -765,3 +765,4 @@ https://trashbox.ru/link/2026-09-03-cod-v-yakutii||всё для суверен�
 https://trashbox.ru/link/2026-09-03-dushevnyj-gpt||chatgpt стал более душевным: теперь он ставит смайлики и реакции
 https://trashbox.ru/link/2026-09-03-v-restore-poyavilsya-korner-vertu-s-alphafold-za-990-000||в restore: появился корнер vertu с alphafold за 990 000 ₽
 https://trashbox.ru/link/2026-09-03-mts-dobavila-ii-tezisy-razgovorov-v-istoriyu-zvonkov||мтс добавила ии-тезисы разговоров в историю звонков
+https://trashbox.ru/link/2026-09-03-vivaldi-8-2||очень удобно: в адресной строке браузера vivaldi появился калькулятор
