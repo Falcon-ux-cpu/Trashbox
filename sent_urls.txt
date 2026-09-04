@@ -778,3 +778,4 @@ https://trashbox.ru/link/2026-08-09-nvidia-priobretaet-hugging-face-za-13-billio
 https://trashbox.ru/link/2026-09-03-open-secure-ai-alliance-linux||альянс open secure ai переходит под управление linux foundation
 https://trashbox.ru/link/2026-09-04-redmi-note-17-kremnij||смартфоны redmi note 17 получили кремний-углеродные аккумуляторы
 https://trashbox.ru/link/2026-09-04-solid-state-airjet-in-super-slim-1-aeroblade-laptop-concept-lenovo||lenovo thinkbook aeroblade: концепт ультратонкого ноутбука без вентиляторов
+https://trashbox.ru/link/2026-09-04-dlss-5-zapustili-na-videokartah-amd||независимый разработчик позволил геймерам запускать dlss 5 на видеокартах amd
