@@ -781,3 +781,4 @@ https://trashbox.ru/link/2026-09-04-solid-state-airjet-in-super-slim-1-aeroblade
 https://trashbox.ru/link/2026-09-04-dlss-5-zapustili-na-videokartah-amd||независимый разработчик позволил геймерам запускать dlss 5 на видеокартах amd
 https://trashbox.ru/link/2026-09-04-atom-vypustil-seriynuyu-versiyu-po-i-predstavil-plan-razvitiya-funkciy-elektromo||атом выпустил серийную версию по и представил план развития функций электромобиля на 2026–2027 годы
 https://trashbox.ru/link/2026-09-05-dreame-rasshirila-lineyku-na-ifa-2026-parovoy-pylesos-kamera-8k-robot-dlya-okon-||dreame расширила линейку на ifa 2026: паровой пылесос, камера 8k, робот для окон и газонокосилка
+https://trashbox.ru/link/2026-09-05-apple-a18-pro-macbook-neo-patch-linux||ядро linux получило начальную поддержку apple a18 pro и macbook neo
