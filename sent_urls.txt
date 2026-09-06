@@ -782,3 +782,4 @@ https://trashbox.ru/link/2026-09-04-dlss-5-zapustili-na-videokartah-amd||нез�
 https://trashbox.ru/link/2026-09-04-atom-vypustil-seriynuyu-versiyu-po-i-predstavil-plan-razvitiya-funkciy-elektromo||атом выпустил серийную версию по и представил план развития функций электромобиля на 2026–2027 годы
 https://trashbox.ru/link/2026-09-05-dreame-rasshirila-lineyku-na-ifa-2026-parovoy-pylesos-kamera-8k-robot-dlya-okon-||dreame расширила линейку на ifa 2026: паровой пылесос, камера 8k, робот для окон и газонокосилка
 https://trashbox.ru/link/2026-09-05-apple-a18-pro-macbook-neo-patch-linux||ядро linux получило начальную поддержку apple a18 pro и macbook neo
+https://trashbox.ru/link/2026-09-06-galaxy-a18-sohranit-proverennuyu-formulu-byudzhetnyy-samsung-poluchit-do-256-gb-||galaxy a18 сохранит проверенную формулу. бюджетный samsung получит до 256 гб памяти и знакомый amoled на 90 гц
