@@ -784,3 +784,4 @@ https://trashbox.ru/link/2026-09-05-dreame-rasshirila-lineyku-na-ifa-2026-parovo
 https://trashbox.ru/link/2026-09-05-apple-a18-pro-macbook-neo-patch-linux||ядро linux получило начальную поддержку apple a18 pro и macbook neo
 https://trashbox.ru/link/2026-09-06-galaxy-a18-sohranit-proverennuyu-formulu-byudzhetnyy-samsung-poluchit-do-256-gb-||galaxy a18 сохранит проверенную формулу. бюджетный samsung получит до 256 гб памяти и знакомый amoled на 90 гц
 https://trashbox.ru/link/2026-09-06-hongqi-predstavil-na-avtosalone-v-chendu-obnovlennye-hs5-hq9-phev-i-novyy-elektr||hongqi представил на автосалоне в чэнду обновленные hs5, hq9 phev и новый электроседан tiangong 07
+https://trashbox.ru/link/2026-09-07-telegram-boty||в telegram появились боты на собственных серверах: как подать заявку на тестирование?
