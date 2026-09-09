@@ -799,3 +799,4 @@ https://trashbox.ru/link/2026-09-09-nazyvaetsya-iphone-duo||сми: первый
 https://trashbox.ru/link/2026-09-09-nvidia-dlss-mfg-rtx-30||энтузиаст запустил nvidia multi frame generation на geforce rtx 30
 https://trashbox.ru/link/2026-09-09-alisa-ai-lev-tolstoj||лев толстой будет отвечать в чате с алисой ai: его голос воссоздали
 https://trashbox.ru/link/2026-09-09-no-mans-sky-obnovlenie-cosmos-so-stanciiami||no man's sky получила масштабное обновление cosmos в честь юбилея
+https://trashbox.ru/link/2026-09-09-llm-uskorenie-sborki-linux||разработчик из arm вместе с ии на треть ускорил сборку ядра linux
