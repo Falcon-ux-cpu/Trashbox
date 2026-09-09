@@ -795,3 +795,4 @@ https://trashbox.ru/link/2026-09-08-gog-preservation-program-big-boxes||прог
 https://trashbox.ru/link/2026-09-08-mega-darkula-amstrad-sega-port||в сети появилось демо mega darkula: порт аркадного платформера для sega mega drive
 https://trashbox.ru/link/2026-09-08-iz-linux-udalyat-kod-staryh-arm-chipov||разработчики linux планируют удалить более 55 тысяч строк старого кода для arm
 https://trashbox.ru/link/2026-09-09-vypustila-chatgpt-images-2-5||openai выпустила chatgpt images 2.5: в новой модели можно рисовать
+https://trashbox.ru/link/2026-09-09-nazyvaetsya-iphone-duo||сми: первый складной смартфон apple называется iphone duo
