@@ -809,3 +809,4 @@ https://trashbox.ru/link/2026-09-09-apple-watch-ultra-4||представлен�
 https://trashbox.ru/link/2026-09-10-google-store-pixel-tablet-rip||google pixel tablet пропал с прилавков спустя всего 3 года после запуска
 https://trashbox.ru/link/2026-09-10-sega-model-1-fpga-core||новое fpga-ядро sega model 1 отлично справляется с запуском virtua racing
 https://trashbox.ru/link/2026-09-10-v-rossii-nachali-prodavat-poco-f9-ultra-i-f9-pro-s-ekranami-do-185-gc||в россии начали продавать poco f9 ultra и f9 pro с экранами до 185 гц
+https://trashbox.ru/link/2026-09-10-piglyflag-igra-dlya-zx-spectrum-retrosouls||студия retrosouls представила свежую игру для zx spectrum: встречаем piglyflag
