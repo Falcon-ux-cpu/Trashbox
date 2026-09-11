@@ -816,3 +816,4 @@ https://trashbox.ru/link/2026-09-11-ii-kiberbullit-avtorov||ии кибербу�
 https://trashbox.ru/link/2026-09-11-alice-ai-search-pretrain||открыт доступ к alice ai search pretrain — ии-модели, ответственной за быстрые ответы в ии-поиске яндекса
 https://trashbox.ru/link/2026-09-11-tuvio-zapustil-lineyku-prime-bolee-60-modeley-bytovoy-tehniki-v-devyati-kategori||tuvio запустил линейку prime — более 60 моделей бытовой техники в девяти категориях
 https://trashbox.ru/link/2026-09-11-ii-cherty-cheloveka||в россии выяснили, какие черты человека может воспроизводить ии
+https://trashbox.ru/link/2026-09-11-qualcomm-hexagon-npu-30-mlrd-models||qualcomm готовит чип для запуска локальных ии-моделей с миллиардами параметров
