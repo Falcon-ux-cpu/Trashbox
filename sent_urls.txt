@@ -818,3 +818,4 @@ https://trashbox.ru/link/2026-09-11-tuvio-zapustil-lineyku-prime-bolee-60-modele
 https://trashbox.ru/link/2026-09-11-ii-cherty-cheloveka||в россии выяснили, какие черты человека может воспроизводить ии
 https://trashbox.ru/link/2026-09-11-qualcomm-hexagon-npu-30-mlrd-models||qualcomm готовит чип для запуска локальных ии-моделей с миллиардами параметров
 https://trashbox.ru/link/2026-09-11-windows-11-oblako||windows 11 научилась переустанавливаться из «облака»
+https://trashbox.ru/link/2026-09-11-ubuntu-26-10-linux-73||ubuntu 26.10 будет сразу использовать ядро linux 7.3 вместо 7.2
