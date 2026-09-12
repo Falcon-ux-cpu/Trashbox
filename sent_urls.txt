@@ -821,3 +821,4 @@ https://trashbox.ru/link/2026-09-11-windows-11-oblako||windows 11 научила
 https://trashbox.ru/link/2026-09-11-ubuntu-26-10-linux-73||ubuntu 26.10 будет сразу использовать ядро linux 7.3 вместо 7.2
 https://trashbox.ru/link/2026-09-11-sega-rally-2-dreamcast-back-online||sega rally 2 для dreamcast возвращается в онлайн силами сообщества
 https://trashbox.ru/link/2026-09-11-v-sberbank-onlayn-poyavilsya-razdel-shkolnye-servisy-dlya-pitaniya-i-propuska-v-||в сбербанк онлайн появился раздел школьные сервисы для питания и пропуска в школу
+https://trashbox.ru/link/2026-09-12-windows-11-zaschita-administratora||в windows 11 наконец-то появится функция «защита администратора»
