@@ -843,3 +843,4 @@ https://trashbox.ru/link/2026-09-14-oppo-reno16-pro-poluchil-kameru-200-mp-i-kno
 https://trashbox.ru/link/2026-09-15-firefox-156||вышел firefox 156 с рядом значительных изменений
 https://trashbox.ru/link/2026-09-15-avrora-quake||для российской ос «аврора» вышел ещё один порт — теперь легендарного шутера quake 4
 https://trashbox.ru/link/2026-09-15-valve-steam-frame||компания valve наконец-то выпустила vr-гарнитуру steam frame: заказы уже принимаются
+https://trashbox.ru/link/2026-09-15-sberbum-svoe-imya||владельцам колонок сбербум 2.0 доступна новая опция — они могут выбрать для устройства собственное имя
