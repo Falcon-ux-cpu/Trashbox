@@ -845,3 +845,4 @@ https://trashbox.ru/link/2026-09-15-avrora-quake||для российской о
 https://trashbox.ru/link/2026-09-15-valve-steam-frame||компания valve наконец-то выпустила vr-гарнитуру steam frame: заказы уже принимаются
 https://trashbox.ru/link/2026-09-15-sberbum-svoe-imya||владельцам колонок сбербум 2.0 доступна новая опция — они могут выбрать для устройства собственное имя
 https://trashbox.ru/link/2026-09-15-sber-time-adapter||сбер научил ии «понимать» течение времени, и это сделает видео более реалистичными
+https://trashbox.ru/link/2026-09-15-mediatek-dimensity-9600-pro||mediatek представила dimensity 9600 pro — мобильный чип по технологии 2 нм
