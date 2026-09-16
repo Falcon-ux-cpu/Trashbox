@@ -860,3 +860,4 @@ https://trashbox.ru/link/2026-09-16-dreame-l9-sama-doziruet-moyuschee-sredstvo-i
 https://trashbox.ru/link/2026-09-16-samsung-one-ui-9||samsung начинает официальное распространение интерфейса one ui 9: список изменений и новых функций
 https://trashbox.ru/link/2026-09-16-2gis-posylki||2гис хочет стать конкурентом «почты россии»: через сервис уже можно отправлять посылки
 https://trashbox.ru/link/2026-09-16-oracle-cve-ispravleno-virtualbox||oracle устранила 673 уязвимости: срочно обновите virtualbox и graalvm
+https://trashbox.ru/link/2026-09-16-optiscaler-client-fsr4||релиз optiscaler client 1.0.7: улучшение fsr 4 и рекомендуемые конфиги для игр
