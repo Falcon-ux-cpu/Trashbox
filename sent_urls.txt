@@ -862,3 +862,4 @@ https://trashbox.ru/link/2026-09-16-2gis-posylki||2гис хочет стать 
 https://trashbox.ru/link/2026-09-16-oracle-cve-ispravleno-virtualbox||oracle устранила 673 уязвимости: срочно обновите virtualbox и graalvm
 https://trashbox.ru/link/2026-09-16-optiscaler-client-fsr4||релиз optiscaler client 1.0.7: улучшение fsr 4 и рекомендуемые конфиги для игр
 https://trashbox.ru/link/2026-09-16-robotaksi-tesla-dlinnye-marshruty||70 минут вместо 10: роботакси tesla выбирает длительные маршруты
+https://trashbox.ru/link/2026-09-16-kursy-po-ii-dlya-uchitelej||учителя смогут бесплатно пройти курсы по работе с ии: запись на госуслугах
