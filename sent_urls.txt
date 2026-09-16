@@ -850,3 +850,4 @@ https://trashbox.ru/link/2026-09-15-dreame-g12-dual-moyuschiy-pylesos-5-v-1-s-vs
 https://trashbox.ru/link/2026-09-15-hongoi-h5-2026||в россии стартовали продажи премиального бизнес-седана hongqi h5 2026
 https://trashbox.ru/link/2026-09-16-linux-hibernation-improvement||инженер увеличил скорость гибернации linux на 20% новой серией патчей
 https://trashbox.ru/link/2026-09-16-razer-kraken-v4||razer представила геймерскую гарнитуру с тактильной обратной связью
+https://trashbox.ru/link/2026-09-16-chatgpt-bukvy-e||chatgpt не смог посчитать буквы «е» в слове seventeen, но доказывал правоту своего неверного ответа
