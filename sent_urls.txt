@@ -851,3 +851,4 @@ https://trashbox.ru/link/2026-09-15-hongoi-h5-2026||в россии старто
 https://trashbox.ru/link/2026-09-16-linux-hibernation-improvement||инженер увеличил скорость гибернации linux на 20% новой серией патчей
 https://trashbox.ru/link/2026-09-16-razer-kraken-v4||razer представила геймерскую гарнитуру с тактильной обратной связью
 https://trashbox.ru/link/2026-09-16-chatgpt-bukvy-e||chatgpt не смог посчитать буквы «е» в слове seventeen, но доказывал правоту своего неверного ответа
+https://trashbox.ru/link/2026-09-16-xiaomi-18-pro||тыльный экран xiaomi 18 pro будет запускать кастомные ии-приложения
