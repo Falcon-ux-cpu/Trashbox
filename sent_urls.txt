@@ -859,3 +859,4 @@ https://trashbox.ru/link/2026-09-16-microsoft-copilot-cowork||microsoft выпу
 https://trashbox.ru/link/2026-09-16-dreame-l9-sama-doziruet-moyuschee-sredstvo-i-osvezhaet-bele-do-12-chasov||dreame l9 сама дозирует моющее средство и освежает белье до 12 часов
 https://trashbox.ru/link/2026-09-16-samsung-one-ui-9||samsung начинает официальное распространение интерфейса one ui 9: список изменений и новых функций
 https://trashbox.ru/link/2026-09-16-2gis-posylki||2гис хочет стать конкурентом «почты россии»: через сервис уже можно отправлять посылки
+https://trashbox.ru/link/2026-09-16-oracle-cve-ispravleno-virtualbox||oracle устранила 673 уязвимости: срочно обновите virtualbox и graalvm
