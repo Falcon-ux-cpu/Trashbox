@@ -866,3 +866,4 @@ https://trashbox.ru/link/2026-09-16-kursy-po-ii-dlya-uchitelej||учителя �
 https://trashbox.ru/link/2026-09-17-huawei-matepad-air||в россии стартовали предзаказы на планшет huawei matepad air: особенности и стоимость
 https://trashbox.ru/link/2026-09-17-5g-na-iphone-v-rossii||минцифры ведёт переговоры с apple о запуске 5g на iphone в россии
 https://trashbox.ru/link/2026-09-17-gnome-51||вышел gnome 51 с повышенной производительностью и массой изменений
+https://trashbox.ru/link/2026-09-17-pale-moon-linux-firefox-improvement||релиз pale moon 35.0: быстрее работает на linux и лучше совместим с firefox
