@@ -863,3 +863,4 @@ https://trashbox.ru/link/2026-09-16-oracle-cve-ispravleno-virtualbox||oracle у�
 https://trashbox.ru/link/2026-09-16-optiscaler-client-fsr4||релиз optiscaler client 1.0.7: улучшение fsr 4 и рекомендуемые конфиги для игр
 https://trashbox.ru/link/2026-09-16-robotaksi-tesla-dlinnye-marshruty||70 минут вместо 10: роботакси tesla выбирает длительные маршруты
 https://trashbox.ru/link/2026-09-16-kursy-po-ii-dlya-uchitelej||учителя смогут бесплатно пройти курсы по работе с ии: запись на госуслугах
+https://trashbox.ru/link/2026-09-17-huawei-matepad-air||в россии стартовали предзаказы на планшет huawei matepad air: особенности и стоимость
