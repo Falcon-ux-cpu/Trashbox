@@ -872,3 +872,4 @@ https://trashbox.ru/link/2026-09-17-microsoft-ne-budet-ubirat-igry-pervogo-dnia-
 https://trashbox.ru/link/2026-09-17-windows-search-mozhet-zapisyvat-gigabajty-dannyh-na-disk||поиск windows может записывать гигабайты данных на диск: как исправить
 https://trashbox.ru/link/2026-09-18-zavod-po-proizvodstvu-transmissij||в тульской области запустили завод по производству трансмиссий
 https://trashbox.ru/link/2026-09-18-openai-chitaet-perepiski||в openai сотни сотрудников читают личные переписки пользователей
+https://trashbox.ru/link/2026-09-18-ubuntu-desktop-stability-under-oom||поведение рабочего стола ubuntu 26.10 станет стабильнее при нехватке памяти
