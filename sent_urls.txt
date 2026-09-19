@@ -881,3 +881,4 @@ https://trashbox.ru/link/2026-09-19-rossiya-plazmennyj-dvigatel||в россии
 https://trashbox.ru/link/2026-09-19-samsung-galaxy-tab-s12||в сеть утекли характеристики планшетов samsung galaxy tab s12 plus и tab s12 ultra
 https://trashbox.ru/link/2026-09-19-boyazn-poteryat-rabotu-iz-za-ii||всё больше людей в мире боятся потерять работу из-за внедрения ии
 https://trashbox.ru/link/2026-09-19-max-oplata-obschestvennyj-transport||в россии могут внедрить оплату на общественном транспорте через мессенджер max
+https://trashbox.ru/link/2026-09-19-wine-11-18-fix-games-ntoskrnl||вышел wine 11.18: починили star wars, assassin's creed rogue и другие игры
