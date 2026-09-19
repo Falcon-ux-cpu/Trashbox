@@ -874,3 +874,4 @@ https://trashbox.ru/link/2026-09-18-zavod-po-proizvodstvu-transmissij||в тул
 https://trashbox.ru/link/2026-09-18-openai-chitaet-perepiski||в openai сотни сотрудников читают личные переписки пользователей
 https://trashbox.ru/link/2026-09-18-ubuntu-desktop-stability-under-oom||поведение рабочего стола ubuntu 26.10 станет стабильнее при нехватке памяти
 https://trashbox.ru/link/2026-09-18-intel-bug-bounty-program-ends||intel прекращает свою программу вознаграждений за обнаружение уязвимостей
+https://trashbox.ru/link/2026-09-19-oppo-coloros-17||представлена coloros 17: список функций и график распространения
