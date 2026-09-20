@@ -883,3 +883,4 @@ https://trashbox.ru/link/2026-09-19-boyazn-poteryat-rabotu-iz-za-ii||всё бо
 https://trashbox.ru/link/2026-09-19-max-oplata-obschestvennyj-transport||в россии могут внедрить оплату на общественном транспорте через мессенджер max
 https://trashbox.ru/link/2026-09-19-wine-11-18-fix-games-ntoskrnl||вышел wine 11.18: починили star wars, assassin's creed rogue и другие игры
 https://trashbox.ru/link/2026-09-20-zapolyare-golosovanie-byuro-1440||спасибо бюро 1440: жители заполярья получили доступ к электронному голосованию
+https://trashbox.ru/link/2026-09-20-windows-11-vosstanovlenie-fajlov||теперь удалённые файлы в windows 11 можно восстановить после перезагрузки
