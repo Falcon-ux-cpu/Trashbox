@@ -897,3 +897,4 @@ https://trashbox.ru/link/2026-09-20-optovolokno-sobytiya||российские �
 https://trashbox.ru/link/2026-09-20-windows-fajly-zadnim-chislom||инженер microsoft пояснил, почему иногда windows создаёт файлы задним числом
 https://trashbox.ru/link/2026-09-20-iphone-18-pro-max-skorost-pamyati||память в iphone 18 pro max может работать медленнее, чем sd-карты — результаты исследования
 https://trashbox.ru/link/2026-09-21-yandeks-vylozhil-na-hugging-face-novuyu-ii-model-i-dva-russkoyazychnyh-benchmark||яндекс выложил на hugging face новую ии-модель и два русскоязычных бенчмарка
+https://trashbox.ru/link/2026-09-21-podstavki-vmesto-monitora||пользователь рассказал, как его начальник купил две подставки для принтера вместо самого устройства: виновата картинка
