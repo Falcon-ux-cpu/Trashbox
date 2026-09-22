@@ -903,3 +903,4 @@ https://trashbox.ru/link/2026-09-21-rtx-60-reliz-otlozhen||по слухам, р
 https://trashbox.ru/link/2026-09-22-windows-7-zagruzka||в microsoft рассказали, почему windows 7 требовалось 30 секунд для отображения рабочего стола
 https://trashbox.ru/link/2026-09-22-novostnoj-sajt-vydumal-sotrudnika-nasa||популярный новостной сайт выдумал сотрудника nasa, чтобы публиковать выдуманный ии материал
 https://trashbox.ru/link/2026-09-22-izolirovannyj-ii||в россии появится изолированный от интернета ии: он займётся специфическими задачами
+https://trashbox.ru/link/2026-09-22-chislo-vredonosnyh-resursov-v-zone-ru-sokratilos-na-46||число вредоносных ресурсов в зоне .ru сократилось на 46%
