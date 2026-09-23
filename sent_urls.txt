@@ -924,3 +924,4 @@ https://trashbox.ru/link/2026-09-23-windows-11-ne-sozdaet-kopii-fajlov||в windo
 https://trashbox.ru/link/2026-09-23-dreame-zanyala-pervoe-mesto-v-mire-po-prodazham-robotov-pylesosov||dreame заняла первое место в мире по продажам роботов-пылесосов
 https://trashbox.ru/link/2026-09-23-china-s-aidc-1||земные дата-центры не нужны: китай вывел на орбиту спутник с ии-компьютером
 https://trashbox.ru/link/2026-09-23-tehsbor-na-otechestvennuyu-elektroniku||техсбор на отечественную электронику станет на 33 % ниже, чем на иностранную
+https://trashbox.ru/link/2026-09-23-qualcomm-adreno-850-malu-linux-patches||qualcomm представила открытые драйверы adreno 850 сразу после анонса
