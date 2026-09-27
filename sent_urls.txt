@@ -942,3 +942,4 @@ https://trashbox.ru/link/2026-09-26-yadro-ubuntu-obnovlenie||ядро в ubuntu 
 https://trashbox.ru/link/2026-09-26-centr-obrabotki-dannyh-v-kosmose||google готовится к запуску космического центра обработки данных
 https://trashbox.ru/link/2026-09-26-ii-dokumenty-dlya-sudov||юридические ии-документы несут угрозу судебной системе — futurism
 https://trashbox.ru/link/2026-09-26-iphone-18-pro-banka-limonada||банка лимонада повысила производительность iphone 18 pro на 25 %
+https://trashbox.ru/link/2026-09-27-openai-ostanovila-obuchenie-ii||openai приостановила обучение самых мощных ии-моделей из-за большого числа случаев выхода из изолированной зоны
