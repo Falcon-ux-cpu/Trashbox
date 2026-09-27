@@ -951,3 +951,4 @@ https://trashbox.ru/link/2026-09-27-vremya-kompilyacii-yadra-linux||в буду�
 https://trashbox.ru/link/2026-09-27-ii-model-avtomobil||передовую ии-модель загрузили в «мозг» автомобиля: что из этого вышло
 https://trashbox.ru/link/2026-09-27-ii-dengi-dolzhnostnye-obyazannosti||сотрудники тратят большие деньги, чтобы ии выполнял их должностные обязанности
 https://trashbox.ru/link/2026-09-27-windows-funkciya-zavisaniya||пользователи обнаружили, что обязательная функция windows может приводить к зависанию системы
+https://trashbox.ru/link/2029-09-27-bugir-10-10-3||в среде рабочего стола budgie 10.10.3 появилась возможность произвольно размещать иконки на рабочем столе
