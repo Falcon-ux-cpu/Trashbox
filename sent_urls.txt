@@ -950,3 +950,4 @@ https://trashbox.ru/link/2026-09-27-ii-agent-pereobuchil-model||вместо и�
 https://trashbox.ru/link/2026-09-27-vremya-kompilyacii-yadra-linux||в будущем время компиляции ядра linux составит всего 10 секунд
 https://trashbox.ru/link/2026-09-27-ii-model-avtomobil||передовую ии-модель загрузили в «мозг» автомобиля: что из этого вышло
 https://trashbox.ru/link/2026-09-27-ii-dengi-dolzhnostnye-obyazannosti||сотрудники тратят большие деньги, чтобы ии выполнял их должностные обязанности
+https://trashbox.ru/link/2026-09-27-windows-funkciya-zavisaniya||пользователи обнаружили, что обязательная функция windows может приводить к зависанию системы
