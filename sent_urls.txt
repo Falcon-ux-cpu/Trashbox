@@ -954,3 +954,4 @@ https://trashbox.ru/link/2026-09-27-windows-funkciya-zavisaniya||пользов�
 https://trashbox.ru/link/2029-09-27-bugir-10-10-3||в среде рабочего стола budgie 10.10.3 появилась возможность произвольно размещать иконки на рабочем столе
 https://trashbox.ru/link/2026-09-27-minecraft-sift||в minecraft появится sift — новое измерение за последние 15 лет
 https://trashbox.ru/link/2026-09-28-opera-avtomaticheskoe-vpn||opera научилась автоматически включать vpn при подключении к публичным сетям wi-fi
+https://trashbox.ru/link/2026-09-28-linux-nura||спустя почти 10 лет проект postmarketos сменил название — на nura
