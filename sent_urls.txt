@@ -973,3 +973,4 @@ https://trashbox.ru/link/2026-09-26-dyadya-vanya-zhivye-stranicy||пьеса «�
 https://trashbox.ru/link/2026-09-28-motorola-shirokaya-raskladushka-mock-up||motorola работает над новой широкой раскладушкой: вот как она может выглядеть
 https://trashbox.ru/link/2026-09-28-jetour-t1-phev||на российском рынке появится первый гибрид от jetour — кроссовер t1 phev
 https://trashbox.ru/link/2026-09-28-firefox-157||вышел firefox 157 с заметным изменением дизайна за последние много лет
+https://trashbox.ru/link/2026-09-28-fedora-45-snapdragon-x1||fedora 45 будет лучше поддерживать ноутбуки на базе snapdragon x1
