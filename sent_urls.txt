@@ -976,3 +976,4 @@ https://trashbox.ru/link/2026-09-28-firefox-157||вышел firefox 157 с за�
 https://trashbox.ru/link/2026-09-28-fedora-45-snapdragon-x1||fedora 45 будет лучше поддерживать ноутбуки на базе snapdragon x1
 https://trashbox.ru/link/2026-06-29-nothing-headphone-1-pro||представлены наушники nothing headphone (1) pro с твитером xmems и 68 часами автономной работы
 https://trashbox.ru/link/2029-06-29-windows-usb-nakopiteli||windows 11 сохраняет информацию об уже извлечённых usb-накопителях: насколько это опасно
+https://trashbox.ru/link/2026-09-29-anthropic-opasnost-ii||компания anthropic перед ipo рассказала об опасности ии
