@@ -978,3 +978,4 @@ https://trashbox.ru/link/2026-06-29-nothing-headphone-1-pro||представл�
 https://trashbox.ru/link/2029-06-29-windows-usb-nakopiteli||windows 11 сохраняет информацию об уже извлечённых usb-накопителях: насколько это опасно
 https://trashbox.ru/link/2026-09-29-anthropic-opasnost-ii||компания anthropic перед ipo рассказала об опасности ии
 https://trashbox.ru/link/2026-09-29-yandex-lunnen-airis||«яндекс фабрика» представила лёгкий ноутбук lunnen airis с мощной начинкой
+https://trashbox.ru/link/2026-09-29-gemini-skills||функция skills стала бесплатной для всех пользователей gemini
