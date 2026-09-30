@@ -989,3 +989,4 @@ https://trashbox.ru/link/2026-09-29-openai-vypustila-gpt-6-1-sol-cherez-nedelyu-
 https://trashbox.ru/link/2026-09-30-android-google-assistant||google assistant перестал работать на android: его заменяют gemini
 https://trashbox.ru/link/2026-09-30-chatgpt-limity||компания openai изменила лимиты подписки chatgpt
 https://trashbox.ru/link/2026-09-30-openai-dots||у openai появились dots — персональные ии-агенты для выполнения задач в фоновом режиме
+https://trashbox.ru/link/2026-09-30-google-pixel-11a-izobrazheniya||появились первые изображения смартфона google pixel 11a
