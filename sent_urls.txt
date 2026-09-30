@@ -999,3 +999,4 @@ https://trashbox.ru/link/2026-09-30-fora-stanciya||представлена ро
 https://trashbox.ru/link/2026-09-30-oneplus-16-official-antutu-score||официальная мощность oneplus 16 бьёт рекорды: 5.63 миллиона баллов antutu
 https://trashbox.ru/link/2026-09-30-windows-11-26h2||вышла windows 11 26h2: без проблем не обошлось
 https://trashbox.ru/link/2026-09-30-nvidia-geforce-mnozhestvo-cve||сентябрьский бюллетень безопасности nvidia сообщает о многочисленных уязвимостях
+https://trashbox.ru/link/2026-09-30-lazernye-nejroseti||российские и китайские учёные намерены ускорить создание «лазерных» нейросетей
