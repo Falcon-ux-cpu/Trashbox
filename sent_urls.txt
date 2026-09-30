@@ -987,3 +987,4 @@ https://trashbox.ru/link/2026-09-29-uchastvovat-v-turnire-po-valorant-ot-predato
 https://trashbox.ru/link/2026-09-29-daytona-usa-sega-32x||фанат daytona usa переносит аркадную гонку на провальный аддон sega 32x
 https://trashbox.ru/link/2026-09-29-openai-vypustila-gpt-6-1-sol-cherez-nedelyu-posle-gpt-6-sol||openai выпустила gpt-6.1 sol через неделю после gpt-6 sol
 https://trashbox.ru/link/2026-09-30-android-google-assistant||google assistant перестал работать на android: его заменяют gemini
+https://trashbox.ru/link/2026-09-30-chatgpt-limity||компания openai изменила лимиты подписки chatgpt
