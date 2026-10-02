@@ -1015,3 +1015,4 @@ https://trashbox.ru/link/2026-10-02-gpt-astra-rasshifroval-pismo||gpt-6 astra п
 https://trashbox.ru/link/2026-10-02-google-gemini-4-argon||google представила gemini 4 argon: ии-модель превосходит gpt-6 astra, fable 5.1 и opus 5.5
 https://trashbox.ru/link/2026-10-02-microsoft-transcribe-2||microsoft представила голосовую ии-модель mai-transcribe-2: в тестах она превосходит решения от google и openai
 https://trashbox.ru/link/2026-10-02-android-apk-24-chasa||установить apk в android из неизвестных источников станет сложнее: придётся ждать 24 часа
+https://trashbox.ru/link/2026-10-02-blackberry-passport||культовый blackberry passport обрёл новую жизнь со свежим android и мощным железом
