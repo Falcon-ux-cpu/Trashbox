@@ -1012,3 +1012,4 @@ https://trashbox.ru/link/2026-10-01-razvitie-megakorporacii||обнародов�
 https://trashbox.ru/link/2026-10-01-iter-rossiya-30-mlrd||россия потратит 30 млрд рублей на создание «искусственного солнца»
 https://trashbox.ru/link/2029-10-02-gpt-primerochnaya||chatgpt превратился в виртуальную примерочную
 https://trashbox.ru/link/2026-10-02-gpt-astra-rasshifroval-pismo||gpt-6 astra предложил вариант расшифровки 217-летнего письма маршалу наполеона
+https://trashbox.ru/link/2026-10-02-google-gemini-4-argon||google представила gemini 4 argon: ии-модель превосходит gpt-6 astra, fable 5.1 и opus 5.5
