@@ -1031,3 +1031,4 @@ https://trashbox.ru/link/2026-10-06-v-ios-27-2-beta-3-perestal-rabotat-sposob-vk
 https://trashbox.ru/link/2026-10-06-dvs-upali-nizhe-50||продажи двс-автомобилей впервые в истории упали ниже 50%
 https://trashbox.ru/link/2026-10-06-micro-arcade-zubochistka-hudozhnik-bitblt_korry||художник создал микро-аркадник из бумаги: он управляется зубочисткой
 https://trashbox.ru/link/2026-10-06-acer-50-let-istorii-ot-microprofessor-1-do-elektrotransporta-i-gorodskih-it-ekos||acer: 50 лет истории — от microprofessor-1 до электротранспорта и городских it-экосистем
+https://trashbox.ru/link/2026-10-06-scrcpy-50-vaapi-gpu-windows-arm||утилита scrcpy 5.0 получила аппаратное декодирование видео и поддержку arm
