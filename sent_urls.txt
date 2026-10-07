@@ -1033,3 +1033,4 @@ https://trashbox.ru/link/2026-10-06-micro-arcade-zubochistka-hudozhnik-bitblt_ko
 https://trashbox.ru/link/2026-10-06-acer-50-let-istorii-ot-microprofessor-1-do-elektrotransporta-i-gorodskih-it-ekos||acer: 50 лет истории — от microprofessor-1 до электротранспорта и городских it-экосистем
 https://trashbox.ru/link/2026-10-06-scrcpy-50-vaapi-gpu-windows-arm||утилита scrcpy 5.0 получила аппаратное декодирование видео и поддержку arm
 https://trashbox.ru/link/2026-10-06-openssh-10-6-post-quantum-security||выпуск openssh 10.6 усиливает безопасность и пост-квантовое шифрование
+https://trashbox.ru/link/2026-10-07-gta-6-na-pk||стримить gta 6 на пк не выйдет: глава xbox опроверг громкий инсайд
