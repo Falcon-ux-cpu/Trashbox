@@ -1040,3 +1040,4 @@ https://trashbox.ru/link/2026-10-07-otmenennyj-perfect-dark-gejmplej||опубл
 https://trashbox.ru/link/2026-10-07-google-predstavila-playground||google представила playground: ии-платформу для генерации игр
 https://trashbox.ru/link/2026-10-07-debian-14-art-konkurs||разработчики debian 14 открывают конкурс на создание официального арта
 https://trashbox.ru/link/2026-10-08-huawei-watch-d3-i-huawei-watch-6||в россии стартовали продажи часов huawei watch d3 и huawei watch 6
+https://trashbox.ru/link/2026-10-08-opensors-versii-softa||энтузиаст выпустил опенсорс-версии софта adobe: приложения написаны с ии
