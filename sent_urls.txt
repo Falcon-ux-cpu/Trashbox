@@ -1051,3 +1051,4 @@ https://trashbox.ru/link/2026-10-09-apple-iphone-18-pro||сми: apple сокр�
 https://trashbox.ru/link/2026-10-09-macbook-s-sensornym-displeem||инсайдер: apple представит macbook с сенсорным экраном 27 октября
 https://trashbox.ru/link/2026-10-09-pk-eksklyuzivy-ps5||ps5-эксклюзивы можно будет запускать на пк: авторы anyps5 доработали шейдеры
 https://trashbox.ru/link/2026-10-09-golosovoj-avtootvetchik-ii||виртуальный секретарь «мтс» будет отвечать на пропущенные голосом абонента
+https://trashbox.ru/link/2026-10-09-uyazvimost-vysokogo-urovnya||в telegram desktop нашли критическую уязвимость: открывала доступ к файлам на пк
