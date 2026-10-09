@@ -1052,3 +1052,4 @@ https://trashbox.ru/link/2026-10-09-macbook-s-sensornym-displeem||инсайде
 https://trashbox.ru/link/2026-10-09-pk-eksklyuzivy-ps5||ps5-эксклюзивы можно будет запускать на пк: авторы anyps5 доработали шейдеры
 https://trashbox.ru/link/2026-10-09-golosovoj-avtootvetchik-ii||виртуальный секретарь «мтс» будет отвечать на пропущенные голосом абонента
 https://trashbox.ru/link/2026-10-09-uyazvimost-vysokogo-urovnya||в telegram desktop нашли критическую уязвимость: открывала доступ к файлам на пк
+https://trashbox.ru/link/2026-10-09-anthropic-oss-scanner||anthropic запустила сканер уязвимостей в софте с открытым исходным кодом
