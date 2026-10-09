@@ -1053,3 +1053,4 @@ https://trashbox.ru/link/2026-10-09-pk-eksklyuzivy-ps5||ps5-эксклюзивы
 https://trashbox.ru/link/2026-10-09-golosovoj-avtootvetchik-ii||виртуальный секретарь «мтс» будет отвечать на пропущенные голосом абонента
 https://trashbox.ru/link/2026-10-09-uyazvimost-vysokogo-urovnya||в telegram desktop нашли критическую уязвимость: открывала доступ к файлам на пк
 https://trashbox.ru/link/2026-10-09-anthropic-oss-scanner||anthropic запустила сканер уязвимостей в софте с открытым исходным кодом
+https://trashbox.ru/link/2026-10-09-cmf-speaker-s-and-m||линейка аудиотехники nothing пополнится портативной колонкой
