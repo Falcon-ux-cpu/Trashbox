@@ -1054,3 +1054,4 @@ https://trashbox.ru/link/2026-10-09-golosovoj-avtootvetchik-ii||виртуаль
 https://trashbox.ru/link/2026-10-09-uyazvimost-vysokogo-urovnya||в telegram desktop нашли критическую уязвимость: открывала доступ к файлам на пк
 https://trashbox.ru/link/2026-10-09-anthropic-oss-scanner||anthropic запустила сканер уязвимостей в софте с открытым исходным кодом
 https://trashbox.ru/link/2026-10-09-cmf-speaker-s-and-m||линейка аудиотехники nothing пополнится портативной колонкой
+https://trashbox.ru/link/2026-10-10-xiaomi-redmi-kronshtejn||xiaomi представила кронштейн для монитора: выдерживает до 9 кг
