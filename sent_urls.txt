@@ -1057,3 +1057,4 @@ https://trashbox.ru/link/2026-10-09-cmf-speaker-s-and-m||линейка ауди
 https://trashbox.ru/link/2026-10-10-xiaomi-redmi-kronshtejn||xiaomi представила кронштейн для монитора: выдерживает до 9 кг
 https://trashbox.ru/link/2026-10-10-rynok-pk-prosel-na-20||рынок пк просел на 20%: аналитики ожидают скидок
 https://trashbox.ru/link/2026-10-10-solus-linux-mozilla-license||solus linux готовится к переходу на лицензию moziila для объединения с aerynos
+https://trashbox.ru/link/2026-10-10-husk-android-games-on-apple-ios||проект husk позволяет запускать android-игры на iphone без эмуляции
