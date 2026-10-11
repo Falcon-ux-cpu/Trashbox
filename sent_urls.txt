@@ -1060,3 +1060,4 @@ https://trashbox.ru/link/2026-10-10-solus-linux-mozilla-license||solus linux г�
 https://trashbox.ru/link/2026-10-10-husk-android-games-on-apple-ios||проект husk позволяет запускать android-игры на iphone без эмуляции
 https://trashbox.ru/link/2026-10-11-nasa-i-esa-uzhe-gotovyat-missii-k-apofisu-mgu-rasschityvaet-sozdat-svoy-apparat||nasa и esa уже готовят миссии к апофису, мгу рассчитывает создать свой аппарат
 https://trashbox.ru/link/2026-10-11-oneplus-16-osnastyat-batareey-na-9-000-ma-ch-i-zaryadkoy-do-100-vt||oneplus 16 оснастят батареей на 9 000 ма·ч и зарядкой до 100 вт
+https://trashbox.ru/link/2026-10-11-anker-solix-s5000-zaryazhaetsya-za-99-minut-i-vydaet-do-4500-vt||anker solix s5000 заряжается за 99 минут и выдаёт до 4500 вт
