@@ -1067,3 +1067,4 @@ https://trashbox.ru/link/2026-10-12-s-otkrytym-ishodnym-kodom||программ�
 https://trashbox.ru/link/2026-10-12-inzhener-microsoft-obyasnil-pochemu-dva-aktivnyh-antivirusa-konfliktuyut||сотрудник microsoft с 30-летним стажем советует: не устанавливайте два или более антивируса
 https://trashbox.ru/link/2026-10-12-citroen-vyglyadit-zabavno||citroen показал концепт ультрадоступного электрокара: он выглядит очень забавно
 https://trashbox.ru/link/2026-10-12-videokartu-v-neprivychnom-meste||моддер разместил видеокарту в непривычном месте: температура снизилась
+https://trashbox.ru/link/2026-10-12-na-pervom-meste-python||опубликован рейтинг популярности языков программирования: на первом месте python
