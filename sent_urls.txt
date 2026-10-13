@@ -1091,3 +1091,4 @@ https://trashbox.ru/link/2026-10-13-apple-otkryla-predzakazy-na-homeview-domashn
 https://trashbox.ru/link/2026-10-13-apple-i-lg-sozdali-umnyy-zamok-kotoryy-otkryvaetsya-pri-priblizhenii-s-iphone||apple и lg создали умный замок, который открывается при приближении с iphone
 https://trashbox.ru/link/2026-10-13-firefox-158-release||firefox 158 получил jpeg xl — формат с прозрачностью, анимацией и hdr
 https://trashbox.ru/link/2026-10-13-pauerbank-oneplus-na-67-vt-pokazhet-moschnost-i-ostavsheesya-vremya-zaryadki||пауэрбанк oneplus на 67 вт покажет мощность и оставшееся время зарядки
+https://trashbox.ru/link/2026-10-13-bazzite-linux-uluchsheniya-dlya-portativok||bazzite linux обновился: улучшена поддержка игровых портативных консолей
