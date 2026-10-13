@@ -1089,3 +1089,4 @@ https://trashbox.ru/link/2026-10-13-homepod-mini-2-pulsiruet-v-takt-muzyke-i-men
 https://trashbox.ru/link/2026-10-13-novaya-apple-tv-4k-prinimaet-komandy-siri-bez-nazhatiya-knopki-na-pulte||новая apple tv 4k принимает команды siri без нажатия кнопки на пульте
 https://trashbox.ru/link/2026-10-13-apple-otkryla-predzakazy-na-homeview-domashniy-ekran-s-siri-ai-za-299||apple открыла предзаказы на homeview — домашний экран с siri ai за 299 $
 https://trashbox.ru/link/2026-10-13-apple-i-lg-sozdali-umnyy-zamok-kotoryy-otkryvaetsya-pri-priblizhenii-s-iphone||apple и lg создали умный замок, который открывается при приближении с iphone
+https://trashbox.ru/link/2026-10-13-firefox-158-release||firefox 158 получил jpeg xl — формат с прозрачностью, анимацией и hdr
