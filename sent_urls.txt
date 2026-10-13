@@ -1071,3 +1071,4 @@ https://trashbox.ru/link/2026-10-12-na-pervom-meste-python||опубликова
 https://trashbox.ru/link/2026-10-12-posleduet-primeru-intel||слух: amd последует примеру intel и qualcomm, повысив цены на процессоры
 https://trashbox.ru/link/2026-10-12-predstavlen-oneplus-16||представлен флагманский oneplus 16: с топовым чипом и 185 гц
 https://trashbox.ru/link/2026-10-13-no-mans-sky-na-ios||no man's sky выйдет на ios: нужен iphone 11 или новее
+https://trashbox.ru/link/2026-10-12-google-fitbit-edge||google представила fitbit edge: фитнес-браслет в духе mi band
