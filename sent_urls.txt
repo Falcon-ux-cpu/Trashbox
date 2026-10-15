@@ -1124,3 +1124,4 @@ https://trashbox.ru/link/2026-10-15-shtaty-ssha-zayavili-v-iskah-chto-openai-sta
 https://trashbox.ru/link/2026-10-15-animated-zamenyaet-zastavku-apple-sobstvennym-video-na-ekrane-blokirovki-mac||phosphene заменяет заставку apple собственным видео на экране блокировки mac
 https://trashbox.ru/link/2026-10-15-huang-nvidia-postavki-chipov-opasnym-ai||дженсен хуанг: nvidia прекратит поставки чипов безответственным создателям ии
 https://trashbox.ru/link/2026-10-15-zx-spectrum-zxdesk-rabochij-stol||ретро-энтузиаст создал графический рабочий стол для zx spectrum
+https://trashbox.ru/link/2026-10-15-libreboot-edk2-chromebook||релиз libreboot 26.10: полная поддержка uefi и сотен компьютеров
