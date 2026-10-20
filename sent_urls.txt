@@ -1186,3 +1186,4 @@ https://trashbox.ru/link/2026-10-20-tehnologiya-yandeksa-petals-pomogla-anthropi
 https://trashbox.ru/link/2026-10-20-coolpad-pokazala-cool-x-wide-smartfon-s-ekranom-16-10-i||coolpad показала cool x wide — смартфон с экраном 16:10 и корпусом шириной 9,5 см
 https://trashbox.ru/link/2026-10-20-brazilec-prodal-vse-i-proehal-2000-km-k-zhenschine-iz-tiktok-kotoruyu-sozdala-ne||бразилец продал всё и проехал 2000 км к женщине из tiktok, которую создала нейросеть
 https://trashbox.ru/link/2026-10-20-altman-nazval-uzhasnym-scenariy-pri-kotorom-odna-ii-kompaniya-rasplavit-gpu-konk||альтман назвал «ужасным» сценарий, при котором одна ии-компания расплавит gpu конкурентов
+https://trashbox.ru/link/2026-10-20-openbsd-8-ai-sipms||openbsd 8.0: легендарная защищенная ос получила масштабное обновление
