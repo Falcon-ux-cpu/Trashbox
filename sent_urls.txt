@@ -1188,3 +1188,4 @@ https://trashbox.ru/link/2026-10-20-brazilec-prodal-vse-i-proehal-2000-km-k-zhen
 https://trashbox.ru/link/2026-10-20-altman-nazval-uzhasnym-scenariy-pri-kotorom-odna-ii-kompaniya-rasplavit-gpu-konk||альтман назвал «ужасным» сценарий, при котором одна ии-компания расплавит gpu конкурентов
 https://trashbox.ru/link/2026-10-20-openbsd-8-ai-sipms||openbsd 8.0: легендарная защищенная ос получила масштабное обновление
 https://trashbox.ru/link/2026-10-20-amd-fsr-4-1-xbox-rx-6000||amd расширила поддержку fsr 4.1 на консолях и старых видеокартах
+https://trashbox.ru/link/2026-10-21-spotify-za-god-isklyuchil-iz-rekomendaciy-50-mln-ai-kompoziciy||spotify за год исключил из рекомендаций 50 млн ai-композиций
