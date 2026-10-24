@@ -1249,3 +1249,4 @@ https://trashbox.ru/link/2026-10-23-steam-personalnyj-kalendar||интересн
 https://trashbox.ru/link/2026-10-24-microsoft-ooxml-iso-libre-office||команда libreoffice раскрыла скандальную историю стандартизации ooxml от microsoft
 https://trashbox.ru/link/2026-10-24-openai-astra||openai возобновила тестирование ии-моделей astra, но лишила их интернета
 https://trashbox.ru/link/2026-10-24-100-ii-vzlom||пользователь попросил 100 ии-моделей взломать его: вот что вышло
+https://trashbox.ru/link/2026-10-24-vyklyuchatel-dlya-elektrostancij||в россии испытали выключатель для мощных электростанций
