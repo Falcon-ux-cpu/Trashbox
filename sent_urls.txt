@@ -1247,3 +1247,4 @@ https://trashbox.ru/link/2026-10-24-iphone-duo-treschiny-ekran||пользова
 https://trashbox.ru/link/2026-10-24-cuktech-30||представлено зарядное устройство cuktech 30 с вентилятором внутри: что это даёт
 https://trashbox.ru/link/2026-10-23-steam-personalnyj-kalendar||интересные игры находить будет проще: в steam появился персональный календарь новинок
 https://trashbox.ru/link/2026-10-24-microsoft-ooxml-iso-libre-office||команда libreoffice раскрыла скандальную историю стандартизации ooxml от microsoft
+https://trashbox.ru/link/2026-10-24-openai-astra||openai возобновила тестирование ии-моделей astra, но лишила их интернета
