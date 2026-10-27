@@ -1303,3 +1303,4 @@ https://trashbox.ru/link/2026-10-26-anthropic-elvis-presli||anthropic вновь
 https://trashbox.ru/link/2026-10-26-obnovlennyy-volga-k40-vyhodit-s-yandeks-kartami-ot-2-909-mln-rubley||обновлённый volga k40 выходит с яндекс картами — от 2,909 млн рублей
 https://trashbox.ru/link/2026-10-26-apple-priznala-problemu-s-ekranom-iphone-duo-cherez-tri-dnya-posle-starta-prodaz||apple признала проблему с экраном iphone duo через три дня после старта продаж
 https://trashbox.ru/link/2026-10-26-openai-vypustila-gpt-6-1-terra-vtroe-bystree-i-v-10-raz-deshevle-astra||openai выпустила gpt-6.1 terra: втрое быстрее и в 10 раз дешевле astra
+https://trashbox.ru/link/2026-10-27-claude-zapret-na-kopirovanie||anthropic запретила ии-модели claude копировать игры и программы
