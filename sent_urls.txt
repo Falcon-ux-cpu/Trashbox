@@ -1306,3 +1306,4 @@ https://trashbox.ru/link/2026-10-26-openai-vypustila-gpt-6-1-terra-vtroe-bystree
 https://trashbox.ru/link/2026-10-27-claude-zapret-na-kopirovanie||anthropic запретила ии-модели claude копировать игры и программы
 https://trashbox.ru/link/2026-10-27-tsmc-rost-cen||tsmc повысит цены на упаковку чипов: всё из-за спроса на ии
 https://trashbox.ru/link/2026-10-27-kitaj-ii-puzyr||акции китайских производителей чипов и роботов начали стремительно падать: говорят о сдувании ии-пузыря
+https://trashbox.ru/link/2026-10-27-nvidia-roboty-gpu||nvidia захватила 61% рынка ии-чипов для гуманоидных роботов
