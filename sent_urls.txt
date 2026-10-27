@@ -1308,3 +1308,4 @@ https://trashbox.ru/link/2026-10-27-tsmc-rost-cen||tsmc повысит цены 
 https://trashbox.ru/link/2026-10-27-kitaj-ii-puzyr||акции китайских производителей чипов и роботов начали стремительно падать: говорят о сдувании ии-пузыря
 https://trashbox.ru/link/2026-10-27-nvidia-roboty-gpu||nvidia захватила 61% рынка ии-чипов для гуманоидных роботов
 https://trashbox.ru/link/2026-10-27-ubuntu-ai-rabota||у разработчиков ubuntu прибавилось работы: доля полезных сообщений от ии упала ниже 5%
+https://trashbox.ru/link/2026-10-27-skorost-zapuska-prilozhenij-windows-11||microsoft нашла способ ускорить запуск приложений в windows 11: опробовано на браузере edge
