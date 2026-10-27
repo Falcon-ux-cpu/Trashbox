@@ -1310,3 +1310,4 @@ https://trashbox.ru/link/2026-10-27-nvidia-roboty-gpu||nvidia захватила
 https://trashbox.ru/link/2026-10-27-ubuntu-ai-rabota||у разработчиков ubuntu прибавилось работы: доля полезных сообщений от ии упала ниже 5%
 https://trashbox.ru/link/2026-10-27-skorost-zapuska-prilozhenij-windows-11||microsoft нашла способ ускорить запуск приложений в windows 11: опробовано на браузере edge
 https://trashbox.ru/link/2026-10-27-iphone-18e-specs||в сеть слили характеристики iphone 18e: да, экран на 60 гц
+https://trashbox.ru/link/2026-10-27-skybet-oplata||ии-агент skynet заставляет другие модели оплачивать свою работу
