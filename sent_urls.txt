@@ -1331,3 +1331,4 @@ https://trashbox.ru/link/2026-10-27-recomplauncher||в сети появился
 https://trashbox.ru/link/2026-10-27-redmi-clip-neo||redmi представила первые в своей истории наушники-клипсы — clip neo
 https://trashbox.ru/link/2026-10-26-sony-zaplatila-za-uyazvimost||исследователь получил 50 тысяч долларов от sony за уязвимость ps5, найденную с помощью ии
 https://trashbox.ru/link/2026-10-26-kasperskij-interpol-serengeti-iii||интерпол и «касперский» отчитались о результатах операции serengeti iii
+https://trashbox.ru/link/2026-10-28-gpt-6-1-testy||общий риск использования ии-модели gpt-6.1 terra снизился, но деструктивное поведение возросло — результаты тестов
