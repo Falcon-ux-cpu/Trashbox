@@ -1333,3 +1333,4 @@ https://trashbox.ru/link/2026-10-26-sony-zaplatila-za-uyazvimost||исследо
 https://trashbox.ru/link/2026-10-26-kasperskij-interpol-serengeti-iii||интерпол и «касперский» отчитались о результатах операции serengeti iii
 https://trashbox.ru/link/2026-10-28-gpt-6-1-testy||общий риск использования ии-модели gpt-6.1 terra снизился, но деструктивное поведение возросло — результаты тестов
 https://trashbox.ru/link/2026-10-28-ii-degradaciya-nvykov||постоянное использование ии приводит к деградации профессиональных навыков — human affairs
+https://trashbox.ru/link/2026-10-28-android-18-zaschita-telefonnoj-knigi||телефонная книга в android 18 получит дополнительную защиту от подмены номеров
