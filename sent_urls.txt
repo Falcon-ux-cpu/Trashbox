@@ -1379,3 +1379,4 @@ https://trashbox.ru/link/2026-10-30-binance-vzlom||криптобиржа binanc
 https://trashbox.ru/link/2026-10-30-intel-cpu-down||акции intel рухнули на 23%: всё дело в спаде на рынке пк
 https://trashbox.ru/link/2026-10-30-oblako-mail-1-tb||пользователей «облака mail» начали лишать бесплатного 1 тб, полученного в 2013 году
 https://trashbox.ru/link/2026-10-30-442-servisa-dlya-max||российские студенты создали 442 прототипа сервисов для мессенджера max
+https://trashbox.ru/link/2026-10-30-claude-linux-vzlom||claude смог взломать linux менее чем за час
