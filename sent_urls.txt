@@ -1399,3 +1399,4 @@ https://trashbox.ru/link/2026-10-31-cisco-ii-tokeny||инженер получи
 https://trashbox.ru/link/2026-10-31-za-dostavku-superkompyutera-s-9600-nvidia-a100-prosili-vsego-50||за доставку суперкомпьютера с 9600 штук nvidia a100 просили всего $50
 https://trashbox.ru/link/2026-10-31-asus-radeon-hd-3850-trinity||уникальная видеокарта asus radeon hd 3850 trinity выставлена на продажу: в мире таких всего 10 штук
 https://trashbox.ru/link/2026-10-31-github-anyps5-kity-ps5||на github появились вредоносные репозитории, которые имитируют эмуляторы playstation 5
+https://trashbox.ru/link/2026-10-31-dispetcher-zadach-windows-11-tormozit||инженер microsoft объяснил, почему диспетчер задач windows 11 может «тормозить» и на мощных пк
