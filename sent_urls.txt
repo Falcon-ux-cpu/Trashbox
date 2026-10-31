@@ -1395,3 +1395,4 @@ https://trashbox.ru/link/2026-10-31-ms-21-salon||мс-21 получил самы
 https://trashbox.ru/link/2026-10-31-glava-openai-pamyat||глава openai: память надо направлять в центры обработки данных, а не в персональные компьютеры
 https://trashbox.ru/link/2026-10-31-volkswagen-id-golf||volkswagen остановил разработку полностью электрического id.golf
 https://trashbox.ru/link/2026-10-31-ps5-prevratili-v-pk||playstation 5 превратили в игровой пк с интерфейсом, напоминающим steam deck
+https://trashbox.ru/link/2026-10-31-cisco-ii-tokeny||инженер получил бесконечные ии-токены, чтобы переписать 98% кода cisco
