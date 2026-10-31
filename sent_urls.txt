@@ -1405,3 +1405,4 @@ https://trashbox.ru/link/2026-10-31-ocenka-predzakazov-gta-vi-v-675-mln-ne-podtv
 https://trashbox.ru/link/2026-10-31-samsung-gotovit-skladnoy-planshet-kotoryy-umenshaetsya-s-17-do-8-dyuymov||samsung готовит складной планшет, который уменьшается с 17 до 8 дюймов
 https://trashbox.ru/link/2026-10-31-canon-podnimet-ceny-na-kamery-s-2027-goda-iz-za-dorogoy-pamyati||canon поднимет цены на камеры с 2027 года из-за дорогой памяти
 https://trashbox.ru/link/2026-10-31-uyazvimost-android-cve-2026-58882||новая уязвимость в android «ломает» телефоны при помощи sms-сообщений
+https://trashbox.ru/link/2026-10-31-nokia-ai||на старых телефонах nokia теперь можно запустить chatgpt и другие ии-модели
