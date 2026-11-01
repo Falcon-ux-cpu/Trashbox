@@ -1419,3 +1419,4 @@ https://trashbox.ru/link/2026-11-01-oneplus-turbo-6vs-poluchil-batareyu-na-9000-
 https://trashbox.ru/link/2026-11-01-windows-11-128-mb-ozu||разработчик tiny11 запустил windows 11 на пк со 128 мб оперативной памяти
 https://trashbox.ru/link/2026-11-01-razryv-mezhdu-rx-9050-4gb-i-8gb-vyros-s-41-do-68-na-slabom-processore||разрыв между rx 9050 4gb и 8gb вырос с 41% до 68% на слабом процессоре
 https://trashbox.ru/link/2026-11-01-marsianskij-meteorit-4-mlrd-let||учёные обнаружили на земле самый древний марсианский метеорит: ему более 4 млрд лет
+https://trashbox.ru/link/2026-11-01-lokalnye-modeli-provalili-test-s-semyu-lovushkami-opus-i-codex-spravilis-pochti-||локальные модели провалили тест с семью ловушками: opus и codex справились почти идеально
