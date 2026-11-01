@@ -1408,3 +1408,4 @@ https://trashbox.ru/link/2026-10-31-uyazvimost-android-cve-2026-58882||нова�
 https://trashbox.ru/link/2026-10-31-nokia-ai||на старых телефонах nokia теперь можно запустить chatgpt и другие ии-модели
 https://trashbox.ru/link/2026-10-31-gonka-ii||гонка продолжается: microsoft, google и другие компании потратят на развитие ии более 3 трлн долларов
 https://trashbox.ru/link/2026-10-31-gta-6-na-russkom||gta vi на русском? студия gamesvoice намекнула на возможную локализацию
+https://trashbox.ru/link/2026-11-01-limity-gtp-codex||в декабре лимиты chatgpt и codex объединятся в общий счётчик токенов
