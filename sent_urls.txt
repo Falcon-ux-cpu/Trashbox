@@ -1416,3 +1416,4 @@ https://trashbox.ru/link/2026-11-01-samsung-peremenovanie-televizorov||по ст
 https://trashbox.ru/link/2026-11-01-kde-kwi||разработчик kde представил kwi — экспериментальный терминал, который быстрее konsole в 35 раз
 https://trashbox.ru/link/2026-11-01-teflon-v-ii-uskoritelyah||nvidia может задействовать тефлон со сковородок в будущих ии-ускорителях
 https://trashbox.ru/link/2026-11-01-oneplus-turbo-6vs-poluchil-batareyu-na-9000-mach-i-zaryadku-80-vt||oneplus turbo 6vs получил батарею на 9000 мач и зарядку 80 вт
+https://trashbox.ru/link/2026-11-01-windows-11-128-mb-ozu||разработчик tiny11 запустил windows 11 на пк со 128 мб оперативной памяти
