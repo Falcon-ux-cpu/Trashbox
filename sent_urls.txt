@@ -1431,3 +1431,4 @@ https://trashbox.ru/link/2026-11-01-windows-10-11-26h2||microsoft подтвер
 https://trashbox.ru/link/2026-11-02-linux-xray-dostup-vpn-server||пора обновлять xray: пользователи linux могут потерять доступ к vpn-серверу
 https://trashbox.ru/link/2026-11-02-redmi-m100-pro||представлен redmi m100 pro — смартфон с dimensity 7300 ultra за 375 долларов
 https://trashbox.ru/link/2026-11-02-deepseel-super-agent||команда deepseek разработала super-agent — ии-агента, способного работать без прямого поручения
+https://trashbox.ru/link/2026-11-02-srazu-tri-ipad||в 2027 году apple выпустит сразу три ipad: один получит испарительную камеру
