@@ -1430,3 +1430,4 @@ https://trashbox.ru/link/2026-11-01-voyadzher-1-rekord||через 17 дней �
 https://trashbox.ru/link/2026-11-01-windows-10-11-26h2||microsoft подтвердила, что пользователи windows 10 могут напрямую перейти на windows 11 26h2
 https://trashbox.ru/link/2026-11-02-linux-xray-dostup-vpn-server||пора обновлять xray: пользователи linux могут потерять доступ к vpn-серверу
 https://trashbox.ru/link/2026-11-02-redmi-m100-pro||представлен redmi m100 pro — смартфон с dimensity 7300 ultra за 375 долларов
+https://trashbox.ru/link/2026-11-02-deepseel-super-agent||команда deepseek разработала super-agent — ии-агента, способного работать без прямого поручения
