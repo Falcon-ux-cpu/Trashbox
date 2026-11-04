@@ -1480,3 +1480,4 @@ https://trashbox.ru/link/2026-11-03-bethesda-tes-6-sentinel||bethesda раскр
 https://trashbox.ru/link/2026-11-03-fedora-linux-45||представлен дистрибутив fedora linux 45: список изменений и нововведений
 https://trashbox.ru/link/2026-11-03-poka-xai-maska-stroit-ii-klastery-on-zaschischaet-ram-v-domashnih-pk||маск вступился за владельцев пк после слов альтмана о памяти
 https://trashbox.ru/link/2026-11-04-geo-sleuth||gps-метки больше не нужны: проект geo-sleuth позволяет идеально вычислить место по фотографии
+https://trashbox.ru/link/2026-11-04-chatgpt-rekordy||1,2 млрд активных пользователей в неделю — глава openai рассказал о рекордах chatgpt
