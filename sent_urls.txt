@@ -1484,3 +1484,4 @@ https://trashbox.ru/link/2026-11-04-chatgpt-rekordy||1,2 млрд активны
 https://trashbox.ru/link/2026-11-04-windows-10-mobile-android||на windows 10 mobile научились запускать android-приложения без установки эмулятора
 https://trashbox.ru/link/2026-11-04-hyperos-4-rasprostranenie||xiaomi начала распространение hyperos 4: график обновления и список устройств
 https://trashbox.ru/link/2026-11-04-bazzite-45||вышел bazzite 45: запускать многопользовательские игры на linux станет проще
+https://trashbox.ru/link/2026-11-04-vzlom-iphone-18-pro||iphone 18 pro взломали в режиме lockdown mode: потребовался файл pdf
