@@ -1486,3 +1486,4 @@ https://trashbox.ru/link/2026-11-04-hyperos-4-rasprostranenie||xiaomi начал
 https://trashbox.ru/link/2026-11-04-bazzite-45||вышел bazzite 45: запускать многопользовательские игры на linux станет проще
 https://trashbox.ru/link/2026-11-04-vzlom-iphone-18-pro||iphone 18 pro взломали в режиме lockdown mode: потребовался файл pdf
 https://trashbox.ru/link/2026-11-04-perenos-foto-s-pk-na-android||google упростила перенос фотографий с android-устройств на пк
+https://trashbox.ru/link/2026-11-04-npu-windows-11||разработчики использовали нейронный процессор для отрисовки рабочего стола в windows 11
