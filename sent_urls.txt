@@ -1487,3 +1487,4 @@ https://trashbox.ru/link/2026-11-04-bazzite-45||вышел bazzite 45: запу�
 https://trashbox.ru/link/2026-11-04-vzlom-iphone-18-pro||iphone 18 pro взломали в режиме lockdown mode: потребовался файл pdf
 https://trashbox.ru/link/2026-11-04-perenos-foto-s-pk-na-android||google упростила перенос фотографий с android-устройств на пк
 https://trashbox.ru/link/2026-11-04-npu-windows-11||разработчики использовали нейронный процессор для отрисовки рабочего стола в windows 11
+https://trashbox.ru/link/2026-11-04-safari-obnovlenie||браузер safari получил ряд полезных функций: вертикальные вкладки, адаптивный тёмный режим и другие
