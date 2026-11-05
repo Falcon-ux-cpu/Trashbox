@@ -1512,3 +1512,4 @@ https://trashbox.ru/link/2026-11-05-one-ui-9-problemy||пользователи 
 https://trashbox.ru/link/2026-11-05-nvidia-gtx-8800-20-let||nvidia выпустила симулятор распаковки geforce 8800 gtx в честь юбилея
 https://trashbox.ru/link/2026-11-05-canonical-mir-linux-wayland||canonical выпустила mir 2.31.0 с расширенными возможностями композитора
 https://trashbox.ru/link/2026-11-05-valve-priznala-zaderzhki-s-proverkoy-igr-v-steam-do-12-rabochih-dney-vmesto-3-5||valve признала задержки с проверкой игр в steam: до 12 рабочих дней вместо 3–5
+https://trashbox.ru/link/2026-11-05-robot-sobaka-podnyalsya-na-goru-tayshan-za-43-minuty-bystree-obychnogo-turista||робот-собака обогнала туриста на горе тайшань
