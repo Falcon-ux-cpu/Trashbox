@@ -1510,3 +1510,4 @@ https://trashbox.ru/link/2026-11-05-mod-open-77-dobavit-v-cyberpunk-2077-multipl
 https://trashbox.ru/link/2026-11-05-bluetooyj-7||представлен bluetooth 7.0 с пропускной способностью до 7,5 мбит/с
 https://trashbox.ru/link/2026-11-05-one-ui-9-problemy||пользователи смартфонов samsung столкнулись с проблемами после установки one ui 9
 https://trashbox.ru/link/2026-11-05-nvidia-gtx-8800-20-let||nvidia выпустила симулятор распаковки geforce 8800 gtx в честь юбилея
+https://trashbox.ru/link/2026-11-05-canonical-mir-linux-wayland||canonical выпустила mir 2.31.0 с расширенными возможностями композитора
