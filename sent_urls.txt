@@ -1528,3 +1528,4 @@ https://trashbox.ru/link/2026-11-06-paint-uyazvimost||в microsoft paint наш�
 https://trashbox.ru/link/2026-11-06-umnoe-kolco-s-ekranom||представлено умное кольцо с экраном и джойстиком
 https://trashbox.ru/link/2026-11-06-otkaz-ot-action-button||apple может отказаться от кнопки action button — слух
 https://trashbox.ru/link/2026-11-06-baikal-hunt||российские учёные приступили к калибровке модулей нейтринного телескопа baikal-hunt
+https://trashbox.ru/link/2026-11-06-gputaskman||сотрудник microsoft создал приложение для полноценного мониторинга загрузки gpu
