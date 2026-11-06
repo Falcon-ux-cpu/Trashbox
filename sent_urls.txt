@@ -1524,3 +1524,4 @@ https://trashbox.ru/link/2026-11-06-google-gemini-omni-12-flash||google пред
 https://trashbox.ru/link/2026-11-06-sony-mdr-3r||назад в 1979 год: sony представила наушники mdr-3r — обновлённую версию модели mdr-3l2
 https://trashbox.ru/link/2026-11-06-sber-kolonka-185||сбер представил новую версию колонки «сбербум 2.0» к 185-летию компании
 https://trashbox.ru/link/2026-11-06-changan-uni-z-v-rossii||в россии стартовали продажи кроссовера changan uni-z: комплектации и цены
+https://trashbox.ru/link/2026-11-06-paint-uyazvimost||в microsoft paint нашли критическую уязвимость: хакеры могут взломать любой пк
