@@ -1527,3 +1527,4 @@ https://trashbox.ru/link/2026-11-06-changan-uni-z-v-rossii||в россии ст
 https://trashbox.ru/link/2026-11-06-paint-uyazvimost||в microsoft paint нашли критическую уязвимость: хакеры могут взломать любой пк
 https://trashbox.ru/link/2026-11-06-umnoe-kolco-s-ekranom||представлено умное кольцо с экраном и джойстиком
 https://trashbox.ru/link/2026-11-06-otkaz-ot-action-button||apple может отказаться от кнопки action button — слух
+https://trashbox.ru/link/2026-11-06-baikal-hunt||российские учёные приступили к калибровке модулей нейтринного телескопа baikal-hunt
