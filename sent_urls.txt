@@ -1542,3 +1542,4 @@ https://trashbox.ru/link/2026-11-07-kde-n-live-20-08-3-fix-crash||вышел kde
 https://trashbox.ru/link/2026-11-07-klaviatura-iphone-zapretnye-slova||в клавиатуре iphone нашли более 100 000 «запретных» слов
 https://trashbox.ru/link/2026-11-07-6g-radar||сети 6g смогут работать по принципу радара
 https://trashbox.ru/link/2026-11-07-materialy-dlya-supersistem||в россии разработали материалы для суперскоростных вычислительных устройств
+https://trashbox.ru/link/2026-11-07-sistema-kompyuternogo-zreniya||сахалинские специалисты разработали систему компьютерного зрения для беспилотных поездов метро
