@@ -1544,3 +1544,4 @@ https://trashbox.ru/link/2026-11-07-6g-radar||сети 6g смогут рабо�
 https://trashbox.ru/link/2026-11-07-materialy-dlya-supersistem||в россии разработали материалы для суперскоростных вычислительных устройств
 https://trashbox.ru/link/2026-11-07-sistema-kompyuternogo-zreniya||сахалинские специалисты разработали систему компьютерного зрения для беспилотных поездов метро
 https://trashbox.ru/link/2026-11-07-mousepods||ии-модель claude code позволила использовать наушники airpods для управления курсором мыши в linux
+https://trashbox.ru/link/2026-11-07-zubnaya-schetka-tok||учёные создали зубную щётку, которая чистит электрическим зарядом
