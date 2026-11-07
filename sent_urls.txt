@@ -1538,3 +1538,4 @@ https://trashbox.ru/link/2026-11-06-assassin-s-creed-valhalla-poluchila-novuyu-i
 https://trashbox.ru/link/2026-11-07-anthropic-kvantovye-vychisleniya||неизвестная ии-модель от anthropic внесла вклад в решение основных проблем квантовых вычислений
 https://trashbox.ru/link/2026-11-07-kitajskie-ii-modeli-vzlom||китайские ии-модели почти сравнялись с топовой разработкой от openai по возможностям взлома
 https://trashbox.ru/link/2026-11-07-sony-dlya-pozhilyh-lyudej||sony представила «чудо-гаджет»: он будет спасать пожилых людей
+https://trashbox.ru/link/2026-11-07-kde-n-live-20-08-3-fix-crash||вышел kdenlive 26.08.3 с улучшенным восстановлением проектов
