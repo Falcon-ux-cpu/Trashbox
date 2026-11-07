@@ -1536,3 +1536,4 @@ https://trashbox.ru/link/2026-11-06-tesla-super-ai||tesla переименова
 https://trashbox.ru/link/2026-11-06-amd-zhdet-spada-rynka||amd ждёт спада рынка пк в 2027 году, но роста своей выручки более чем на 80%
 https://trashbox.ru/link/2026-11-06-assassin-s-creed-valhalla-poluchila-novuyu-igru||assassin’s creed valhalla получила «новую игру+» почти через шесть лет после выхода
 https://trashbox.ru/link/2026-11-07-anthropic-kvantovye-vychisleniya||неизвестная ии-модель от anthropic внесла вклад в решение основных проблем квантовых вычислений
+https://trashbox.ru/link/2026-11-07-kitajskie-ii-modeli-vzlom||китайские ии-модели почти сравнялись с топовой разработкой от openai по возможностям взлома
