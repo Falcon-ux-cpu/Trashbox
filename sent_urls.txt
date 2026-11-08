@@ -1550,3 +1550,4 @@ https://trashbox.ru/link/2026-01-08-zapret-zvonkov-iz-za-rubezha||с 1 март�
 https://trashbox.ru/link/2026-11-08-iphone-duo-remont||складной iphone duo сломался через четыре дня после покупки: apple предложила ремонт за 1500 долларов
 https://trashbox.ru/link/2026-11-08-redaktor-reestra-windows-11||microsoft работает над новым редактором реестра в windows 11: похож на версию времён windows 95
 https://trashbox.ru/link/2026-11-08-bpad-x7||планшетофон вернулся: в китае представили 7-дюймовый bpad x7
+https://trashbox.ru/link/2026-11-08-windows-zalipanie-klavish||спустя 30 лет microsoft наконец-то решила раздражающую проблему функции «залипание клавиш»
