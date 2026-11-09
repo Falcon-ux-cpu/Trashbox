@@ -1582,3 +1582,4 @@ https://trashbox.ru/link/2026-11-09-amd-ubivaet-ssd||amd убивает ssd на
 https://trashbox.ru/link/2026-11-09-biogenerativnye-sistemy||в россии создают технологию биорегенеративных систем: она для полётов в дальний космос
 https://trashbox.ru/link/2026-11-09-wow-forever-zapusk||world of warcraft forever показал самый ошеломляющий запуск за всю историю wow
 https://trashbox.ru/link/2026-11-09-sistema-hraneniya-baikal-s||создана система хранения данных на отечественном процессоре baikal-s
+https://trashbox.ru/link/2026-11-09-uchenyj-claude||учёный попросил claude обновить нумерацию страниц, но ии-модель также удалила часть конспектов
