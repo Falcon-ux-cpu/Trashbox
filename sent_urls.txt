@@ -1602,3 +1602,4 @@ https://trashbox.ru/link/2026-11-10-huawei-watch-yandex-pay||яндекс пэй
 https://trashbox.ru/link/2026-11-10-gemini-svodka-pamyati||в google gemini появилась полезная функция — «сводка памяти»
 https://trashbox.ru/link/2026-11-10-claude-code-github||специалисты обнаружили, что claude code сливает пароли и важные данные на github
 https://trashbox.ru/link/2026-11-10-fen-dreame-pocket-cake-poluchil-kartridzh-s-syvorotkoy-i-pyat-desertnyh-aromatov||фен dreame pocket cake получил картридж с сывороткой и пять десертных ароматов
+https://trashbox.ru/link/2026-11-10-metod-prognozirovaniya-interesa-k-kontentu||в россии разработали новый метод прогнозирования интереса к контенту
