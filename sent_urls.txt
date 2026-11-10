@@ -1603,3 +1603,4 @@ https://trashbox.ru/link/2026-11-10-gemini-svodka-pamyati||в google gemini по
 https://trashbox.ru/link/2026-11-10-claude-code-github||специалисты обнаружили, что claude code сливает пароли и важные данные на github
 https://trashbox.ru/link/2026-11-10-fen-dreame-pocket-cake-poluchil-kartridzh-s-syvorotkoy-i-pyat-desertnyh-aromatov||фен dreame pocket cake получил картридж с сывороткой и пять десертных ароматов
 https://trashbox.ru/link/2026-11-10-metod-prognozirovaniya-interesa-k-kontentu||в россии разработали новый метод прогнозирования интереса к контенту
+https://trashbox.ru/link/2026-11-10-fable-5-2-shuter||геймдев уже не будет как прежде: ии-модель fable 5.2 создала шутер за 8 часов
