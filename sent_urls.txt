@@ -1614,3 +1614,4 @@ https://trashbox.ru/link/2026-11-10-iphone-os-1-0-zapustili-v-brauzere-rabotaet-
 https://trashbox.ru/link/2026-11-10-windows-11-android||пк на windows 11 можно будет выключать с android-смартфона
 https://trashbox.ru/link/2026-11-10-softbank-ubytki||ии оказался непосильно дорогим: японский гигант softbank отчитался об убытках в 7 млрд долларов
 https://trashbox.ru/link/2026-11-10-deepmind-signal||криптографическую защиту signal проверили с помощью ии-модели deepmind
+https://trashbox.ru/link/2026-11-10-x-org-linux-ekstrennoe-obnovlenie-bezopasnosti||графическое окружение linux x.org получило экстренное обновление безопасности
