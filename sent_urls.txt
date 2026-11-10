@@ -1597,3 +1597,4 @@ https://trashbox.ru/link/2026-11-10-samsung-galaxy-s27||инсайдер рас�
 https://trashbox.ru/link/2026-11-10-bytence-seedream-5-5||bytedance представила seedream 5.5: до 100 редактирований одного изображения без потери качества
 https://trashbox.ru/link/2026-11-10-openai-igrovaya-konsol||openai представила ретроконсоль: игры для неё пишет ии
 https://trashbox.ru/link/2026-11-10-anthropic-gajd||anthropic рассказала, какую ии-модель в каких случаях лучше использовать
+https://trashbox.ru/link/2026-11-10-chipy-na-karbide-kremniya||в мире впервые освоили производство силовых чипов на карбиде кремния с использованием 300-мм пластин
