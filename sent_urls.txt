@@ -1600,3 +1600,4 @@ https://trashbox.ru/link/2026-11-10-anthropic-gajd||anthropic рассказал
 https://trashbox.ru/link/2026-11-10-chipy-na-karbide-kremniya||в мире впервые освоили производство силовых чипов на карбиде кремния с использованием 300-мм пластин
 https://trashbox.ru/link/2026-11-10-huawei-watch-yandex-pay||яндекс пэй появился на умных часах huawei: вот какие модели поддерживаются
 https://trashbox.ru/link/2026-11-10-gemini-svodka-pamyati||в google gemini появилась полезная функция — «сводка памяти»
+https://trashbox.ru/link/2026-11-10-claude-code-github||специалисты обнаружили, что claude code сливает пароли и важные данные на github
