@@ -1592,3 +1592,4 @@ https://trashbox.ru/link/2026-11-09-android-9-i-10-bolshe-ne-podhodyat-dlya-andr
 https://trashbox.ru/link/2026-11-10-openai-control-room||openai создала control room — инструмент для «моментального» отключения ии
 https://trashbox.ru/link/2026-11-10-fable-mythos-5-2||anthropic выпустила claude fable 5.2 и mythos 5.2: быстрее предшественников на 30%
 https://trashbox.ru/link/2026-11-10-samsung-bixby-ai||сми: в one ui 9.5 помощник bixby научился выполнять задачи в фоне
+https://trashbox.ru/link/2026-11-10-unikalnaya-sistema-dlya-oblikov||в россии разработали уникальную систему: она создаёт облики космических и наземных сетей
