@@ -1617,3 +1617,4 @@ https://trashbox.ru/link/2026-11-10-deepmind-signal||криптографиче�
 https://trashbox.ru/link/2026-11-10-x-org-linux-ekstrennoe-obnovlenie-bezopasnosti||графическое окружение linux x.org получило экстренное обновление безопасности
 https://trashbox.ru/link/2026-10-11-valve-proton-update-for-linux-gamers||valve выпустила масштабное обновление proton для linux-геймеров
 https://trashbox.ru/link/2026-11-10-apple-poluchila-tretiy-shtraf-za-god-po-odnoy-i-toy-zhe-state-koap||apple получила третий штраф за год по одной и той же статье коап
+https://trashbox.ru/link/2026-11-10-skript-ram-altman-ezhednevno-donosit-semu-altmanu-skolko-operativki-prostaivaet-||скрипт ram-altman ежедневно доносит сэму альтману, сколько оперативки простаивает в чужих пк
