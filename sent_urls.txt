@@ -1616,3 +1616,4 @@ https://trashbox.ru/link/2026-11-10-softbank-ubytki||ии оказался не�
 https://trashbox.ru/link/2026-11-10-deepmind-signal||криптографическую защиту signal проверили с помощью ии-модели deepmind
 https://trashbox.ru/link/2026-11-10-x-org-linux-ekstrennoe-obnovlenie-bezopasnosti||графическое окружение linux x.org получило экстренное обновление безопасности
 https://trashbox.ru/link/2026-10-11-valve-proton-update-for-linux-gamers||valve выпустила масштабное обновление proton для linux-геймеров
+https://trashbox.ru/link/2026-11-10-apple-poluchila-tretiy-shtraf-za-god-po-odnoy-i-toy-zhe-state-koap||apple получила третий штраф за год по одной и той же статье коап
