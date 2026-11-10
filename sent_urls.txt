@@ -1596,3 +1596,4 @@ https://trashbox.ru/link/2026-11-10-unikalnaya-sistema-dlya-oblikov||в росс
 https://trashbox.ru/link/2026-11-10-samsung-galaxy-s27||инсайдер раскрыл характеристики камер galaxy s27
 https://trashbox.ru/link/2026-11-10-bytence-seedream-5-5||bytedance представила seedream 5.5: до 100 редактирований одного изображения без потери качества
 https://trashbox.ru/link/2026-11-10-openai-igrovaya-konsol||openai представила ретроконсоль: игры для неё пишет ии
+https://trashbox.ru/link/2026-11-10-anthropic-gajd||anthropic рассказала, какую ии-модель в каких случаях лучше использовать
