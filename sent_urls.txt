@@ -1635,3 +1635,4 @@ https://trashbox.ru/link/2026-11-11-chatgpt-golosovye-rezhimy||пользова�
 https://trashbox.ru/link/2026-11-11-sony-otmenila-fairgames||sony отменила fairgames: pvpve-шутер не оправдал ожиданий
 https://trashbox.ru/link/2026-11-11-jeep-cherokee-ii||пользователь смог подключить ии к 32-летнему jeep cherokee: теперь нейросети проводит диагностику авто
 https://trashbox.ru/link/2026-11-11-openai-ubytki-za-kvartal||выручка openai выросла на 50%, но компания всё ещё в минусе
+https://trashbox.ru/link/2026-11-11-amd-epyc-9006-sp7||amd представила epyc 9006 sp7 — процессоры для агентного ии
