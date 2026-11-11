@@ -1641,3 +1641,4 @@ https://trashbox.ru/link/2026-11-11-macbook-pro-razbor||ifixit разобрал�
 https://trashbox.ru/link/2026-11-11-intel-diamond-rapids||таких процессоров у intel ещё не было: компания показала модель diamond rapids с 1,28 гб кэш-памяти llc
 https://trashbox.ru/link/2026-11-11-sberdevices-lampochki-matter-bez-interneta||сбер выпустил умные лампы с matter и управлением без интернета
 https://trashbox.ru/link/2026-11-11-logitech-dast-7000-sotrudnikam-vyhodnoy-chtoby-poigrat-v-gta-vi||logitech даст 7000 сотрудникам выходной, чтобы поиграть в gta vi
+https://trashbox.ru/link/2026-11-11-amd-aocc-kompilyator-linux-zen-6||amd выпустила набор linux-компиляторов aocc 6.0 с оптимизацией под zen 6
