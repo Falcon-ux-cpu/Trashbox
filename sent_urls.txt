@@ -1626,3 +1626,4 @@ https://trashbox.ru/link/2026-11-10-flagmanu-redmi-pripisyvayut-batareyu-na-10-0
 https://trashbox.ru/link/2026-11-10-binance-uyazvimost-ios-raskryvaet-seed-frazy-kriptokoshelkov-patcha-net||binance: уязвимость ios раскрывает seed-фразы криптокошельков, патча нет
 https://trashbox.ru/link/2026-11-10-blender-5-3-pereshel-na-vulkan-i-nauchilsya-nativno-otkryvat-3d-gaussian-splatti||blender 5.3 перешёл на vulkan и научился нативно открывать 3d gaussian splatting
 https://trashbox.ru/link/2026-11-11-photoshop-obnovlenie||adobe photoshop прокачали: на фото можно менять освещение и убирать отражения
+https://trashbox.ru/link/2026-11-11-apple-mac-harbor||apple разрабатывает приложение для локального запуска ии-моделей на компьютерах mac
