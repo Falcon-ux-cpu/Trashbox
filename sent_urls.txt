@@ -1636,3 +1636,4 @@ https://trashbox.ru/link/2026-11-11-sony-otmenila-fairgames||sony отменил
 https://trashbox.ru/link/2026-11-11-jeep-cherokee-ii||пользователь смог подключить ии к 32-летнему jeep cherokee: теперь нейросети проводит диагностику авто
 https://trashbox.ru/link/2026-11-11-openai-ubytki-za-kvartal||выручка openai выросла на 50%, но компания всё ещё в минусе
 https://trashbox.ru/link/2026-11-11-amd-epyc-9006-sp7||amd представила epyc 9006 sp7 — процессоры для агентного ии
+https://trashbox.ru/link/2026-11-11-100-bodies-in-the-grass||пользователь без опыта разработки игр создаёт кооперативный экшен при помощи ии: результаты уже есть
