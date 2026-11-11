@@ -1639,3 +1639,4 @@ https://trashbox.ru/link/2026-11-11-amd-epyc-9006-sp7||amd представил�
 https://trashbox.ru/link/2026-11-11-100-bodies-in-the-grass||пользователь без опыта разработки игр создаёт кооперативный экшен при помощи ии: результаты уже есть
 https://trashbox.ru/link/2026-11-11-macbook-pro-razbor||ifixit разобрала новый macbook pro: пригоден к ремонту, но есть «но»
 https://trashbox.ru/link/2026-11-11-intel-diamond-rapids||таких процессоров у intel ещё не было: компания показала модель diamond rapids с 1,28 гб кэш-памяти llc
+https://trashbox.ru/link/2026-11-11-sberdevices-lampochki-matter-bez-interneta||сбер выпустил умные лампы с matter и управлением без интернета
