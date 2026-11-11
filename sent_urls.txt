@@ -1637,3 +1637,4 @@ https://trashbox.ru/link/2026-11-11-jeep-cherokee-ii||пользователь �
 https://trashbox.ru/link/2026-11-11-openai-ubytki-za-kvartal||выручка openai выросла на 50%, но компания всё ещё в минусе
 https://trashbox.ru/link/2026-11-11-amd-epyc-9006-sp7||amd представила epyc 9006 sp7 — процессоры для агентного ии
 https://trashbox.ru/link/2026-11-11-100-bodies-in-the-grass||пользователь без опыта разработки игр создаёт кооперативный экшен при помощи ии: результаты уже есть
+https://trashbox.ru/link/2026-11-11-macbook-pro-razbor||ifixit разобрала новый macbook pro: пригоден к ремонту, но есть «но»
