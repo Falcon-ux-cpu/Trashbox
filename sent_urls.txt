@@ -1698,3 +1698,4 @@ https://trashbox.ru/link/2026-11-13-tesla-nachala-prodavat-cybertruck-rc-racer-z
 https://trashbox.ru/link/2026-11-13-nous-research-pereobuchila-qwen3-8-27b-dolya-propagandy-upala-s-22-do-0-9||nous research переобучила qwen3.8-27b от alibaba
 https://trashbox.ru/link/2026-11-13-pochti-tret-uchastnikov-oprosa-9to5mac-vernuli-iphone-duo||iphone duo: почти треть опрошенных вернули смартфон
 https://trashbox.ru/link/2026-11-13-kitayskiy-postavschik-progovorilsya-o-dvuh-neanonsirovannyh-proektah-apple||поставщик apple подтвердил работу над ии-очками и умными наушниками
+https://trashbox.ru/link/2026-11-13-chetyre-dmca-uvedomleniya-nintendo-sterli-s-github-emulyatory-yuzu-citron-neo-i-||nintendo удалила с github более 200 репозиториев эмуляторов и прошивок switch
