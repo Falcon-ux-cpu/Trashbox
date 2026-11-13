@@ -1691,3 +1691,4 @@ https://trashbox.ru/link/2026-11-13-ucie-4-0||вышла спецификаци�
 https://trashbox.ru/link/2026-11-13-anthropic-virtualnye-sotrudniki||в anthropic уже работают виртуальные сотрудники: трудятся они больше, чем люди
 https://trashbox.ru/link/2026-11-13-proizvodstvo-tank-400-v-rossii||в россии наладили производство внедорожника tank 400
 https://trashbox.ru/link/2026-11-13-bumazhnaya-karta-gta-6||в сеть слили бумажную карту gta vi из коллекционного издания
+https://trashbox.ru/link/2026-11-13-anthropic-claude-meetings||anthropic представила claude meetings — ии-ассистента для видеоконференций
