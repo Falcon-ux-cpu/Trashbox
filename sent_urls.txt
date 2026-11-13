@@ -1695,3 +1695,4 @@ https://trashbox.ru/link/2026-11-13-anthropic-claude-meetings||anthropic пре�
 https://trashbox.ru/link/2026-11-13-ii-nashel-poselenie-majya||ии нашёл «новое» поселение цивилизации майя, но учёные о нём уже знали
 https://trashbox.ru/link/2026-11-13-wb-chat-prilozheniya||wildberries представил нативные версии мессенджера wb chat
 https://trashbox.ru/link/2026-11-13-tesla-nachala-prodavat-cybertruck-rc-racer-za-350-pered-uhodom-nastoyaschego-pik||tesla начала продавать cybertruck rc racer за $350 перед уходом настоящего пикапа
+https://trashbox.ru/link/2026-11-13-nous-research-pereobuchila-qwen3-8-27b-dolya-propagandy-upala-s-22-do-0-9||nous research переобучила qwen3.8-27b от alibaba
